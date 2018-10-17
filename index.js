@@ -2,8 +2,8 @@ const express = require('express');
 const fs = require('fs');
 const app = express();
 const http = require('http').Server(app);
-const cors = require('express-cors');
 const bodyParser = require('body-parser');
+const cors = require('cors');
 
 const students = require('./datasets/alumni.js');
 
