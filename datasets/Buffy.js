@@ -1,4 +1,4 @@
-const tvShow = {  
+const tvShow ={  
    "name":"Buffy the Vampire Slayer",
    "url":"https://www.imdb.com/title/tt0118276/",
    "language":"English",
@@ -846,5 +846,7 @@ const spinOff = {
 };
 
 
-module.exports = tvShow;
-module.exports = spinOff;
+module.exports = {
+  tvShow, 
+  spinoff
+};
