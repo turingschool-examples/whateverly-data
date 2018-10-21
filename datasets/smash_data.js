@@ -22,7 +22,7 @@ const characters = [
     images: {
       large:'./images/characters/bayonetta.png',
       icon: './images/character_icons/bayonetta_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/bayonetta_head.png'
+      small_icon: './images/character_icons/small_character_icons/bayonetta_head.png'
     }
   },
   {
@@ -48,7 +48,7 @@ const characters = [
     images: {
       large:'./images/characters/bowser.png',
       icon: './images/character_icons/bowser_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/bowser_head.png'
+      small_icon: './images/character_icons/small_character_icons/bowser_head.png'
     }
   },
   {
@@ -74,7 +74,7 @@ const characters = [
     images: {
       large:'./images/characters/bowser_jr.png',
       icon: './images/character_icons/bowser_jr_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/bowser_jr_head.png'
+      small_icon: './images/character_icons/small_character_icons/bowser_jr_head.png'
     }
   },
   {
@@ -100,7 +100,7 @@ const characters = [
     images: {
       large:'./images/characters/captain_falcon.png',
       icon: './images/character_icons/captain_falcon_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/captain_falcon_head.png'
+      small_icon: './images/character_icons/small_character_icons/captain_falcon_head.png'
     }
   },
   {
@@ -126,7 +126,7 @@ const characters = [
     images: {
       large:'./images/characters/charizard.png',
       icon: './images/character_icons/charizard_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/charizard_head.png'
+      small_icon: './images/character_icons/small_character_icons/charizard_head.png'
     }
   },
   {
@@ -152,7 +152,7 @@ const characters = [
     images: {
       large:'./images/characters/cloud.png',
       icon: './images/character_icons/cloud_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/cloud_head.png'
+      small_icon: './images/character_icons/small_character_icons/cloud_head.png'
     }
   },
   {
@@ -178,7 +178,7 @@ const characters = [
     images: {
       large:'./images/characters/corrin.png',
       icon: './images/character_icons/corrin_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/corrin_head.png'
+      small_icon: './images/character_icons/small_character_icons/corrin_head.png'
     }
   },
   {
@@ -204,7 +204,7 @@ const characters = [
     images: {
       large:'./images/characters/dark_pit.png',
       icon: './images/character_icons/dark_pit_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/dark_pit_head.png'
+      small_icon: './images/character_icons/small_character_icons/dark_pit_head.png'
     }
   },
   {
@@ -230,7 +230,7 @@ const characters = [
     images: {
       large:'./images/characters/diddy_kong.png',
       icon: './images/character_icons/diddy_kong_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/diddy_kong_head.png'
+      small_icon: './images/character_icons/small_character_icons/diddy_kong_head.png'
     }
   },
   {
@@ -256,7 +256,7 @@ const characters = [
     images: {
       large:'./images/characters/donkey_kong.png',
       icon: './images/character_icons/donkey_kong_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/donkey_kong_head.png'
+      small_icon: './images/character_icons/small_character_icons/donkey_kong_head.png'
     }
   },
   {
@@ -282,7 +282,7 @@ const characters = [
     images: {
       large:'./images/characters/dr_mario.png',
       icon: './images/character_icons/dr_mario_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/dr_mario_head.png'
+      small_icon: './images/character_icons/small_character_icons/dr_mario_head.png'
     }
   },
   {
@@ -308,7 +308,7 @@ const characters = [
     images: {
       large:'./images/characters/duck_hunt.png',
       icon: './images/character_icons/duck_hunt_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/duck_hunt_head.png'
+      small_icon: './images/character_icons/small_character_icons/duck_hunt_head.png'
     }
   },
   {
@@ -334,7 +334,7 @@ const characters = [
     images: {
       large:'./images/characters/falco.png',
       icon: './images/character_icons/falco_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/falco_head.png'
+      small_icon: './images/character_icons/small_character_icons/falco_head.png'
     }
   },
   {
@@ -360,7 +360,7 @@ const characters = [
     images: {
       large:'./images/characters/fox.png',
       icon: './images/character_icons/fox_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/fox_head.png'
+      small_icon: './images/character_icons/small_character_icons/fox_head.png'
     }
   },
   {
@@ -386,7 +386,7 @@ const characters = [
     images: {
       large:'./images/characters/ganondorf.png',
       icon: './images/character_icons/ganondorf_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/ganondorf_head.png'
+      small_icon: './images/character_icons/small_character_icons/ganondorf_head.png'
     }
   },
   {
@@ -412,7 +412,7 @@ const characters = [
     images: {
       large:'./images/characters/greninja.png',
       icon: './images/character_icons/greninja_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/greninja_head.png'
+      small_icon: './images/character_icons/small_character_icons/greninja_head.png'
     }
   },
   {
@@ -438,7 +438,7 @@ const characters = [
     images: {
       large:'./images/characters/ike.png',
       icon: './images/character_icons/ike_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/ike_head.png'
+      small_icon: './images/character_icons/small_character_icons/ike_head.png'
     }
   },
   {
@@ -464,7 +464,7 @@ const characters = [
     images: {
       large:'./images/characters/jigglypuff.png',
       icon: './images/character_icons/jigglypuff_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/jigglypuff_head.png'
+      small_icon: './images/character_icons/small_character_icons/jigglypuff_head.png'
     }
   },
   {
@@ -490,7 +490,7 @@ const characters = [
     images: {
       large:'./images/characters/king_dedede.png',
       icon: './images/character_icons/king_dedede_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/king_dedede_head.png'
+      small_icon: './images/character_icons/small_character_icons/king_dedede_head.png'
     }
   },
   {
@@ -516,7 +516,7 @@ const characters = [
     images: {
       large:'./images/characters/kirby.png',
       icon: './images/character_icons/kirby_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/kirby_head.png'
+      small_icon: './images/character_icons/small_character_icons/kirby_head.png'
     }
   },
   {
@@ -542,7 +542,7 @@ const characters = [
     images: {
       large:'./images/characters/link.png',
       icon: './images/character_icons/link_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/link_head.png'
+      small_icon: './images/character_icons/small_character_icons/link_head.png'
     }
   },
   {
@@ -568,7 +568,7 @@ const characters = [
     images: {
       large:'./images/characters/little_mac.png',
       icon: './images/character_icons/little_mac_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/little_mac_head.png'
+      small_icon: './images/character_icons/small_character_icons/little_mac_head.png'
     }
   },
   {
@@ -594,7 +594,7 @@ const characters = [
     images: {
       large:'./images/characters/lucario.png',
       icon: './images/character_icons/lucario_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/lucario_head.png'
+      small_icon: './images/character_icons/small_character_icons/lucario_head.png'
     }
   },
   {
@@ -620,7 +620,7 @@ const characters = [
     images: {
       large:'./images/characters/lucas.png',
       icon: './images/character_icons/lucas_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/lucas_head.png'
+      small_icon: './images/character_icons/small_character_icons/lucas_head.png'
     }
   },
   {
@@ -646,7 +646,7 @@ const characters = [
     images: {
       large:'./images/characters/lucina.png',
       icon: './images/character_icons/lucina_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/lucina_head.png'
+      small_icon: './images/character_icons/small_character_icons/lucina_head.png'
     }
   },
   {
@@ -672,7 +672,7 @@ const characters = [
     images: {
       large:'./images/characters/luigi.png',
       icon: './images/character_icons/luigi_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/luigi_head.png'
+      small_icon: './images/character_icons/small_character_icons/luigi_head.png'
     }
   },
   {
@@ -698,7 +698,7 @@ const characters = [
     images: {
       large:'./images/characters/mario.png',
       icon: './images/character_icons/mario_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/mario_head.png'
+      small_icon: './images/character_icons/small_character_icons/mario_head.png'
     }
   },
   {
@@ -724,7 +724,7 @@ const characters = [
     images: {
       large:'./images/characters/marth.png',
       icon: './images/character_icons/marth_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/marth_head.png'
+      small_icon: './images/character_icons/small_character_icons/marth_head.png'
     }
   },
   {
@@ -750,7 +750,7 @@ const characters = [
     images: {
       large:'./images/characters/mega_man.png',
       icon: './images/character_icons/mega_man_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/mega_man_head.png'
+      small_icon: './images/character_icons/small_character_icons/mega_man_head.png'
     }
   },
   {
@@ -776,7 +776,7 @@ const characters = [
     images: {
       large:'./images/characters/meta_knight.png',
       icon: './images/character_icons/meta_knight_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/meta_knight_head.png'
+      small_icon: './images/character_icons/small_character_icons/meta_knight_head.png'
     }
   },
   {
@@ -802,7 +802,7 @@ const characters = [
     images: {
       large:'./images/characters/mewtwo.png',
       icon: './images/character_icons/mewtwo_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/mewtwo_head.png'
+      small_icon: './images/character_icons/small_character_icons/mewtwo_head.png'
     }
   },
   {
@@ -828,7 +828,7 @@ const characters = [
     images: {
       large:'./images/characters/mii_brawler.png',
       icon: './images/character_icons/smash_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/mii_brawler_head.png'
+      small_icon: './images/character_icons/small_character_icons/mii_brawler_head.png'
     }
   },
   {
@@ -854,7 +854,7 @@ const characters = [
     images: {
       large:'./images/characters/mii_gunner.png',
       icon: './images/character_icons/smash_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/mii_gunner_head.png'
+      small_icon: './images/character_icons/small_character_icons/mii_gunner_head.png'
     }
   },
   {
@@ -880,7 +880,7 @@ const characters = [
     images: {
       large:'./images/characters/mii_sword_fighter.png',
       icon: './images/character_icons/smash_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/mii_sword_fighter_head.png'
+      small_icon: './images/character_icons/small_character_icons/mii_sword_fighter_head.png'
     }
   },
   {
@@ -906,7 +906,7 @@ const characters = [
     images: {
       large:'./images/characters/mr_game_and_watch.png',
       icon: './images/character_icons/mr_game_and_watch_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/mr_game_and_watch_head.png'
+      small_icon: './images/character_icons/small_character_icons/mr_game_and_watch_head.png'
     }
   },
   {
@@ -932,7 +932,7 @@ const characters = [
     images: {
       large:'./images/characters/ness.png',
       icon: './images/character_icons/ness_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/ness_head.png'
+      small_icon: './images/character_icons/small_character_icons/ness_head.png'
     }
   },
   {
@@ -958,7 +958,7 @@ const characters = [
     images: {
       large:'./images/characters/olimar.png',
       icon: './images/character_icons/olimar_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/olimar_head.png'
+      small_icon: './images/character_icons/small_character_icons/olimar_head.png'
     }
   },
   {
@@ -984,7 +984,7 @@ const characters = [
     images: {
       large:'./images/characters/pac_man.png',
       icon: './images/character_icons/pac_man_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/pac_man_head.png'
+      small_icon: './images/character_icons/small_character_icons/pac_man_head.png'
     }
   },
   {
@@ -1010,7 +1010,7 @@ const characters = [
     images: {
       large:'./images/characters/palutena.png',
       icon: './images/character_icons/palutena_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/palutena_head.png'
+      small_icon: './images/character_icons/small_character_icons/palutena_head.png'
     }
   },
   {
@@ -1036,7 +1036,7 @@ const characters = [
     images: {
       large:'./images/characters/peach.png',
       icon: './images/character_icons/peach_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/peach_head.png'
+      small_icon: './images/character_icons/small_character_icons/peach_head.png'
     }
   },
   {
@@ -1062,7 +1062,7 @@ const characters = [
     images: {
       large:'./images/characters/pikachu.png',
       icon: './images/character_icons/pikachu_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/pikachu_head.png'
+      small_icon: './images/character_icons/small_character_icons/pikachu_head.png'
     }
   },
   {
@@ -1088,7 +1088,7 @@ const characters = [
     images: {
       large:'./images/characters/pit.png',
       icon: './images/character_icons/pit_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/pit_head.png'
+      small_icon: './images/character_icons/small_character_icons/pit_head.png'
     }
   },
   {
@@ -1114,7 +1114,7 @@ const characters = [
     images: {
       large:'./images/characters/rob.png',
       icon: './images/character_icons/rob_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/rob_head.png'
+      small_icon: './images/character_icons/small_character_icons/rob_head.png'
     }
   },
   {
@@ -1140,7 +1140,7 @@ const characters = [
     images: {
       large:'./images/characters/robin.png',
       icon: './images/character_icons/robin_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/robin_head.png'
+      small_icon: './images/character_icons/small_character_icons/robin_head.png'
     }
   },
   {
@@ -1166,7 +1166,7 @@ const characters = [
     images: {
       large:'./images/characters/rosalina.png',
       icon: './images/character_icons/rosalina_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/rosalina_head.png'
+      small_icon: './images/character_icons/small_character_icons/rosalina_head.png'
     }
   },
   {
@@ -1192,7 +1192,7 @@ const characters = [
     images: {
       large:'./images/characters/roy.png',
       icon: './images/character_icons/roy_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/roy_head.png'
+      small_icon: './images/character_icons/small_character_icons/roy_head.png'
     }
   },
   {
@@ -1218,7 +1218,7 @@ const characters = [
     images: {
       large:'./images/characters/ryu.png',
       icon: './images/character_icons/ryu_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/ryu_head.png'
+      small_icon: './images/character_icons/small_character_icons/ryu_head.png'
     }
   },
   {
@@ -1244,7 +1244,7 @@ const characters = [
     images: {
       large:'./images/characters/samus.png',
       icon: './images/character_icons/samus_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/samus_head.png'
+      small_icon: './images/character_icons/small_character_icons/samus_head.png'
     }
   },
   {
@@ -1270,7 +1270,7 @@ const characters = [
     images: {
       large:'./images/characters/sheik.png',
       icon: './images/character_icons/sheik_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/sheik_head.png'
+      small_icon: './images/character_icons/small_character_icons/sheik_head.png'
     }
   },
   {
@@ -1296,7 +1296,7 @@ const characters = [
     images: {
       large:'./images/characters/shulk.png',
       icon: './images/character_icons/shulk_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/shulk_head.png'
+      small_icon: './images/character_icons/small_character_icons/shulk_head.png'
     }
   },
   {
@@ -1322,7 +1322,7 @@ const characters = [
     images: {
       large:'./images/characters/sonic.png',
       icon: './images/character_icons/sonic_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/sonic_head.png'
+      small_icon: './images/character_icons/small_character_icons/sonic_head.png'
     }
   },
   {
@@ -1348,7 +1348,7 @@ const characters = [
     images: {
       large:'./images/characters/toon_link.png',
       icon: './images/character_icons/toon_link_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/toon_link_head.png'
+      small_icon: './images/character_icons/small_character_icons/toon_link_head.png'
     }
   },
   {
@@ -1374,7 +1374,7 @@ const characters = [
     images: {
       large:'./images/characters/villager.png',
       icon: './images/character_icons/villager_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/villager_head.png'
+      small_icon: './images/character_icons/small_character_icons/villager_head.png'
     }
   },
   {
@@ -1400,7 +1400,7 @@ const characters = [
     images: {
       large:'./images/characters/wario.png',
       icon: './images/character_icons/wario_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/wario_head.png'
+      small_icon: './images/character_icons/small_character_icons/wario_head.png'
     }
   },
   {
@@ -1426,7 +1426,7 @@ const characters = [
     images: {
       large:'./images/characters/wii_fit_trainer.png',
       icon: './images/character_icons/wii_fit_trainer_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/wii_fit_trainer_head.png'
+      small_icon: './images/character_icons/small_character_icons/wii_fit_trainer_head.png'
     }
   },
   {
@@ -1452,7 +1452,7 @@ const characters = [
     images: {
       large:'./images/characters/yoshi.png',
       icon: './images/character_icons/yoshi_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/yoshi_head.png'
+      small_icon: './images/character_icons/small_character_icons/yoshi_head.png'
     }
   },
   {
@@ -1478,7 +1478,7 @@ const characters = [
     images: {
       large:'./images/characters/zelda.png',
       icon: './images/character_icons/zelda_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/zelda_head.png'
+      small_icon: './images/character_icons/small_character_icons/zelda_head.png'
     }
   },
   {
@@ -1504,7 +1504,7 @@ const characters = [
     images: {
       large:'./images/characters/zero_suit_samus.png',
       icon: './images/character_icons/zero_suit_samus_icon.png',
-      small_icon: './images/charcter_icons/small_character_icons/zero_suit_samus_head.png'
+      small_icon: './images/character_icons/small_character_icons/zero_suit_samus_head.png'
     }
   }
 ];
