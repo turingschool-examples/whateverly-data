@@ -4314,3 +4314,7 @@ const stages = [
   }
 ]
 
+module.exports = characters;
+module.exports = stages;
+
+
