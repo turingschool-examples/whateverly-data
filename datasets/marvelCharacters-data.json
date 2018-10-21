@@ -1,0 +1,456 @@
+{
+  "marvelCharacters": {
+    "heroes": [
+      {
+        "heroName": "Captain America",
+        "realName": "Steve Rogers",
+        "powers": ["enhanced strength", "enhanced agility", "enchanced durability"],
+        "equipment": ["vibranium shield"],
+        "affiliations": ["Avengers", "Howling Commandos"],
+        "associatedVillains": ["Red Skull", "Winter Soldier", "Baron Zemo", "Thanos", "Ultron", "Loki"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["The Avengers", "Captain America: The First Avenger", "Captain America: Civil War", "Captain America: The Winter Soldier", "Avengers: Age of Ultron", "Avengers: Infinity War", "Spider-Man: Homecoming"]
+      },
+      {
+        "heroName": "Iron Man",
+        "realName": "Tony Stark",
+        "powers": ["really rich", "really charming", "really smart"],
+        "equipment": [{
+          "power armors": ["Mark I", "Mark II", "Mark III", "Mark IV", "Mark V", "Mark VI", "Mark VII", "Mark XV", "Mark XXXVIII", "Mark XLII"]
+        }],
+        "affiliations": ["Avengers"],
+        "associatedVillains": ["Iron Monger", "Wiplash", "AIM"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Iron Man", "Iron Man 2", "Iron Man 3", "The Avengers", "Avengers: Age of Ultron", "Avengers: Infinity War", "Spider-Man: Homecoming", "The Incredible Hulk"]
+      },
+      {
+        "heroName": "Black Widow",
+        "realName": "Natasha Romanoff",
+        "powers": [],
+        "equipment": ["electrified gauntlets", "stun batons"],
+        "affiliations": ["Avengers"],
+        "associatedVillains": ["Thanos", "Loki", "Winter Soldier"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Iron Man 2", "The Avengers", "Avengers: Age of Ultron", "Avengers: Infinity War"]
+      },
+      {
+        "heroName": "Doctor Strange",
+        "realName": "Dr. Stephen Strange",
+        "powers": ["master of the mystic arts"],
+        "equipment": ["Eye of Agamoto", "Cloak of Levitation"],
+        "affiliations": [],
+        "associatedVillains": ["Dormammu"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Doctor Strange", "Thor: Ragnarok", "Avengers: Infinity War"]
+      },
+      {
+        "heroName": "Hulk",
+        "realName": "Bruce Banner",
+        "powers": ["really smart", "invulnerability", "unmeasured strength"],
+        "equipment": ["stretchy pants"],
+        "affiliations": ["Avengers"],
+        "associatedVillains": ["Abomination", "Thanos", "Grandmaster", "Loki"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["The Avengers", "The Incredible Hulk", "Hulk"],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Hawkeye",
+        "realName": "Clint Barton",
+        "powers": [],
+        "equipment": ["bow", "exploding arrows", "grapling hook arrows", "computer interface arrows"],
+        "affiliations": ["Avengers"],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": ["The Avengers", "Avengers: Age of Ultron", "Avengers: Infinity War", "Thor"],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Scarlet Witch",
+        "realName": "Wanda Maximov",
+        "powers": ["telekinesis", "hypnosis", "energy projection"],
+        "equipment": [],
+        "affiliations": ["Avengers"],
+        "associatedVillains": ["Ultron", "Thanos"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Avengers: Age of Ultron", "Avengers: Infinity War", "Captain America: Civil War", "Avengers 4", "Captain America: The Winter Soldier"],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "War Machine",
+        "realName": "James Rhodes",
+        "powers": [],
+        "equipment": ["modified Mark II power armor"],
+        "affiliations": ["Avengers"],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Iron Man 2", "Captain America: Civil War", "Avengers: Infinity War"],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Thor",
+        "realName": "Thor",
+        "powers": ["control of lightning", "superhuman strength"],
+        "equipment": ["Mjolnir"],
+        "affiliations": ["Avengers", "Guardians of the Galaxy"],
+        "associatedVillains": ["Thanos", "Ultron", "Loki", ""],
+        "firstComicAppearance": "",
+        "movieAppearances": ["The Avengers", "Avengers: Age of Ultron", "Avengers: Infinity War", "Thor", "Thor: Ragnarok", "Thor: THe Dark World"],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Quicksilver",
+        "realName": "Pietro Maximov",
+        "powers": ["superhuman speed"],
+        "equipment": [],
+        "affiliations": ["Avengers"],
+        "associatedVillains": ["Ultron"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Avengers: Age of Ultron", "Captain America: The Winter Soldier"],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Spider-Man",
+        "realName": "Peter Parker",
+        "powers": ["enhanced agility", "enhanced agility", "sticking to walls"],
+        "equipment": ["web shooters"],
+        "affiliations": ["The Avengers"],
+        "associatedVillains": ["The Vulture", "Thanos"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Spider-Man: Homecoming"],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Black Panther",
+        "realName": "T'Challa",
+        "powers": ["enhanced agility", "enchanced durability", "enhanced strength"],
+        "equipment": ["vibranium suit", "vibranium claws"],
+        "affiliations": [],
+        "associatedVillains": ["Killmonger", "The Winter Soldier"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Black Panther", "Avengers: Infinity War", "Captain America: Civil War"],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Falcon",
+        "realName": "Sam Wilson",
+        "powers": [],
+        "equipment": ["military-issue rocket wings"],
+        "affiliations": ["Avengers"],
+        "associatedVillains": ["The Winter Soldier"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Captain America: The Winter Soldier", "Avengers: Infinity War"],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Vision",
+        "realName": null,
+        "powers": ["matter phasing", "flight"],
+        "equipment": ["mind gem"],
+        "affiliations": [],
+        "associatedVillains": ["Ultron", "Thanos"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Captain America: Civil War", "Avengers: Age of Ultron", "Avengers: Infinity War"],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Quicksilver",
+        "realName": "Pietro Maximov",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Gamora",
+        "realName": "Gamora",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Star-Lord",
+        "realName": "Peter Quill",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Rocket Racoon",
+        "realName": "Rocket",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Groot",
+        "realName": "Groot",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Drax",
+        "realName": "Drax",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": ["Thanos", "Ronan"],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Mantis",
+        "realName": "Mantis",
+        "powers": [],
+        "equipment": [],
+        "affiliations": ["Guardians of the Galaxy"],
+        "associatedVillains": ["Thanos", "Ego"],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": ["Guardians of the Galaxy Vol. 2", "Avengers: Infinity War"]
+      },
+      {
+        "heroName": "Deadpool",
+        "realName": "Wade Wilson",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Wolverine",
+        "realName": "Logan",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Daredevil",
+        "realName": "Matt Murdock",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Iron Fist",
+        "realName": "Danny Rand",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Jessica Jones",
+        "realName": "Jessica Jones",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Luke Cage",
+        "realName": "Luke Cage",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Cloak",
+        "realName": "Tyrone Johnson",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Dagger",
+        "realName": "Tandy Bowen",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Ant-man",
+        "realName": "Scott Lang",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Wasp",
+        "realName": "Hope Van Dyne",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": []
+      },
+      {
+        "heroName": "Agent Coulson",
+        "realName": "Phillip J. Coulson",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": [],
+        "tvAppearances": ["Agents Of Shield"]
+      },
+      {
+        "heroName": "Captain Marvel",
+        "realName": "Carol Danvers",
+        "powers": [],
+        "equipment": [],
+        "affiliations": [],
+        "associatedVillains": [],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Avengers 4", "Captain Marvel"],
+        "tvAppearances": []
+      }
+    ],
+    
+    "villains": [
+      {
+        "villainName": "Loki",
+        "realName": "Loki",
+        "powers": [],
+        "affiliations": [],
+        "associatedHeroes": ["Thor"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["The Avengers", "Avengers: Infinity War", "Thor", "Thor: Ragnarok"],
+        "tvAppearances": []
+      },
+      {
+        "villainName": "Thanos",
+        "realName": "Thanos",
+        "powers": [],
+        "affiliations": [],
+        "associatedHeroes": [],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Avengers: Infinity War", "The Avengers", "Guardians of the Galaxy"],
+        "tvAppearances": []
+      },
+      {
+        "villainName": "Ronan",
+        "realName": "Ronan",
+        "powers": [],
+        "affiliations": ["The Kree"],
+        "associatedHeroes": ["Star-Lord", "Gamora", "Drax", "Rocket Racoon", "Groot"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Guardians of the Galaxy"],
+        "tvAppearances": []
+      },
+      {
+        "villainName": "Winter Soldier",
+        "realName": "Bucky Barnes",
+        "powers": [],
+        "equipment": ["advanced prostetic arm"],
+        "affiliations": [],
+        "associatedHeroes": ["Captain America"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Captain America: The Winter Soldier", "Avengers: Infinity War", "Black Panther"],
+        "tvAppearances": []
+      },
+      {
+        "villainName": "Ego",
+        "realName": "Ego",
+        "powers": [],
+        "affiliations": [],
+        "associatedHeroes": ["Star-Lord", "Gamora", "Drax", "Mantis"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Guardians of the Galaxy Vol. 2"],
+        "tvAppearances": []
+      },
+      {
+        "villainName": "Red Skull",
+        "realName": "Johann Schmidt",
+        "powers": ["enhanced stregnth", "enhanced durability"],
+        "affiliations": [],
+        "associatedHeroes": ["Captain America"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Captain America: The First Avenger", "Avengers: Infinity War"],
+        "tvAppearances": []
+      },
+      {
+        "villainName": "Baron Zemo",
+        "realName": "Helmut Zemo",
+        "powers": [],
+        "affiliations": [],
+        "associatedHeroes": ["Captain America", "Iron Man"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Captain America: Civil War"],
+        "tvAppearances": []
+      },
+      {
+        "villainName": "Ultron",
+        "realName": "Ultron",
+        "powers": [],
+        "affiliations": [],
+        "associatedHeroes": ["Captain America", "Iron Man", "Vision"],
+        "firstComicAppearance": "",
+        "movieAppearances": ["Avengers: Age of Ultron"],
+        "tvAppearances": []
+      }
+    ]
+   
+  }
+}
+
+module.exports = {
+  marvelCharacters
+}

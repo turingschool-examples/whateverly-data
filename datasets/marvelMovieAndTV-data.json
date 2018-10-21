@@ -1,0 +1,110 @@
+{
+  "marvelMoviesAndTV": {
+    "movies": [
+      {
+        "title": "The Avengers", 
+        "releaseDate": "",
+        "featuredHeroes": ["Captain America", "Iron Man", "Black Widow", "Thor", "Hawkeye"],
+        "featuredVillain": "Loki",
+        "otherNotableCharacters": ["Nick Fury", "Maria Hill", "Agent Coulson"]
+      },
+      {
+        "title": "Avengers: Age of Ultron", 
+        "releaseDate": "",
+        "featuredHeroes": ["Captain America", "Vision", "Iron Man", "Black Widow", "Thor", "Hawkeye", "Scarlet Witch", "Quicksilver"],
+        "featuredVillain": "Ultron",
+        "otherNotableCharacters": ["Nick Fury", "War Machine", "Maria Hill"]
+      },
+      {
+        "title": "Avengers: Infinity War", 
+        "releaseDate": "",
+        "featuredHeroes": ["Captain America", "Iron Man", "Scarlet Witch", "Vision", "Hulk", "Black Panther", "Falcon", "Thor", "War Machine"],
+        "featuredVillain": "Thanos",
+        "otherNotableCharacters": ["Cull Obsidian", "M'Baku", "Red Skull", "Shuri", "Ebony Maw", "Proxima Midnight"]
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "releaseDate": "",
+        "featuredHeroes": ["Star-Lord", "Gamora", "Drax", "Rocket Racoon", "Groot"],
+        "featuredVillain": "Ronan",
+        "otherNotableCharacters": ["The Collector", "Neblua", "Thanos"]
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "releaseDate": "",
+        "featuredHeroes": ["Star-Lord", "Gamora", "Drax", "Rocket Racoon", "Groot", "Mantis"],
+        "featuredVillain": "Ego",
+        "otherNotableCharacters": ["Neblua"]
+      },
+      {
+        "title": "Captain America: The First Avenger",
+        "releaseDate": "",
+        "featuredHeroes": ["Captain America"],
+        "featuredVillain": "Red Skull",
+        "otherNotableCharacters": ["Peggy Carter", "Dr. Arnim Zola", "Howard Stark", "Nick Fury"]
+      },
+      ],
+    "tvSeries": [
+    {
+      "title": "Daredevil",
+      "releaseDate": "",
+      "featuredHeroes": ["Daredevil"],
+      "featuredVillains": ["Kingpin", "Punisher"],
+      "otherNotableCharacters": ["Stick", "Electra", "Foggy Nelson", "Karen Page", "Ben Urich"]
+    },
+    {
+      "title": "Iron Fist",
+      "releaseDate": "",
+      "featuredHeroes": [],
+      "featuredVillains": [],
+      "otherNotableCharacters": ["Colleen Wing"]
+    },
+    {
+      "title": "Defenders",
+      "releaseDate": "",
+      "featuredHeroes": ["Jessica Jones", "Iron Fist", "Daredevil", "Luke Cage"],
+      "featuredVillains": [],
+      "otherNotableCharacters": []
+    },
+    {
+      "title": "Jessica Jones",
+      "releaseDate": "",
+      "featuredHeroes": ["Jessica Jones"],
+      "featuredVillains": ["Kilgrave"],
+      "otherNotableCharacters": []
+    },
+    {
+      "title": "Cloak & Dagger",
+      "releaseDate": "",
+      "featuredHeroes": ["Cloak", "Dagger"],
+      "featuredVillains": [],
+      "otherNotableCharacters": []
+    },
+    {
+      "title": "Luke Cage",
+      "releaseDate": "",
+      "featuredHeroes": ["Luke Cage"],
+      "featuredVillains": ["Cottonmouth"],
+      "otherNotableCharacters": ["Misty Knight"]
+    },
+    {
+      "title": "Runaways",
+      "releaseDate": "",
+      "featuredHeroes": [],
+      "featuredVillains": [],
+    },
+    {
+      "title": "Gifted",
+      "releaseDate": "",
+      "featuredHeroes": [],
+      "featuredVillains": [],
+    }
+    ],
+    "moviePhases": {
+      "1": ["Iron Man", "The Incredible Hulk", "Iron Man 2", "Thor", "Captain America: The First Avenger", "The Avengers"],
+      "2": ["Iron Man 3", "Thor: The Dark World", "Captain America: The Winter Soldier", "Guardians of the Galaxy", "Avengers: Age of Ultron", "Ant-Man"],
+      "3": ["Captain America: Civil War", "Doctor Strange", "Guardians of the Galaxy Vol. 2", "Spider-Man: Homecoming", "Thor: Ragnarok", "Black Panther", "Avengers: Infinity War", "Ant-Man and the Wasp", "Captain Marvel", "Avengers 4"]
+    }
+  }
+}
+
