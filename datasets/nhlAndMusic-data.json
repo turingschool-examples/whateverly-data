@@ -1,0 +1,133 @@
+const nhl = {
+  easternConference: {
+    numberOfTeams: 16,
+    divisions: 2
+    2018conferenceChampion: 'Washington Capitals,
+      Divisions: [ 
+        metropolitanDivisionTeams : {
+          
+          carolinaHurricanes: {
+            conferenceRank: 10,
+            divisionRank: 6,
+            city : 'Raleigh',
+            state: 'North Carolina',
+            arena: 'PNC Arena,
+            bands: ['Sylvan Esso', 'Carolina Chocolate Drops']
+          },
+
+          columbusBlueJackets: {
+            conferenceRank: 7,
+            divisionRank: 4,
+            city : 'Columbus',
+            state: 'Ohio',
+            arena: 'Nationwide Arena',
+            bands: ['Ekoostik Hookah', 'Times New Viking']
+          },
+
+          newJerseyDevils: {
+            conferenceRank: 8,
+            divisionRank: 5,
+            city : 'Newark',
+            state: 'New Jersey',
+            arena: 'Prudential Center',
+            bands: ['Gloria Gaynor', 'Lords of the Underground']
+          },
+
+          newYorkIslanders: {
+            conferenceRank: 11,
+            divisionRank: 7,
+            city : 'Brooklyn',
+            state: 'New York'
+            arena: 'Barclays Center', 'Nassau Memorial Coliseum',
+            bands: ['Lou Reed', 'Digable Planets']
+          },
+
+          newYorkRangers: {
+            conferenceRank: 12,
+            divisionRank: 8,
+            city : 'New York',
+            state: 'New York',
+            arena: 'Madison Square Garden',
+            bands: ['Beastie Boys', 'KISS']
+          },
+
+           philedelphiaFlyers: {
+            conferenceRank: 6,
+            divisionRank: 3,
+            city : 'Philedelphia',
+            state: 'Pennsylvania',
+            arena: 'Wells Fargo Center',
+            bands: ['The Roots', 'Joan Jett']
+          },
+
+            pittsburghPenguins: {
+            conferenceRank: 5,
+            divisionRank: 2,
+            city : 'Pittsburgh',
+            state: 'Pennsylvania',
+            arena: 'PPG Paints Arena',
+            bands: ['The Roots', 'Joan Jett']
+          },
+
+          pittsburghPenguins: {
+            conferenceRank: 5,
+            divisionRank: 2,
+            city : 'Pittsburgh',
+            state: 'Pennsylvania',
+            arena: 'PPG Paints Arena',
+            bands: ['Rusted Root', 'Scott Hall One Man Band']
+          },
+
+          washingtonCapitals: {
+            conferenceRank: 3,
+            divisionRank: 1,
+            city : 'Washington DC',
+            state: 'Washington DC',
+            arena: 'Capital One Arena',
+            bands: ['Fugazi', 'Duke Ellington']
+          },
+        },
+      
+        atlanticDivisionTeams : {
+          
+          bostonBruins: {
+            conferenceRank: 2,
+            divisionRank: 2,
+            city : 'Boston',
+            state: 'Massachusetts',
+            arena: 'TD Garden',
+            bands: ['New Kids on the Block', 'Morphine']
+          },
+
+          buffaloSabres: {
+            conferenceRank: 16,
+            divisionRank: 8,
+            city : 'Buffalo',
+            state: 'New York',
+            arena: 'Key Bank Center',
+            bands: ['Goo Goo Dolls', 'Malevolent Creation']
+          },
+
+          detroitRedWings: {
+            conferenceRank: 13,
+            divisionRank: 5,
+            city : 'Detroit',
+            state: 'Michigan',
+            arena: 'Little Caesars Arena',
+            bands: ['Aretha Franklin', 'The Stooges']
+          },
+
+          floridaPanthers: {
+            conferenceRank: 9,
+            divisionRank: 4,
+            city : 'Sunrise',
+            state: 'Florida',
+            arena: 'BB&T Arena',
+            bands: ['Turnstiles', 'Message In A Bottle']
+          },
+        } 
+      ]
+  }
+}
+
+module.exports = nhl 
