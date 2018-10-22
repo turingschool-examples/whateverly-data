@@ -38,7 +38,7 @@ datasets.forEach(dataset => {
   app.get(`/${dataset}`, (request, response) => {
     response.send({ dataset });
   });
-}
+});
 
 if (!module.parent) {
   app.listen(app.get('port'), () => {
