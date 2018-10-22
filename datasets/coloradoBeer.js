@@ -1,7 +1,7 @@
 const coloradoBeer = [
   {
     name: 'Fortuna',
-    brewery: 'Avery Brewing Co.',
+    breweryID: 1,
     style: [
       'American Wild Ale',
       'Barrel-Aged'
@@ -16,7 +16,7 @@ const coloradoBeer = [
   },
   {
     name: 'The Kaiser',
-    brewery: 'Avery Brewing Co.',
+    breweryID: 1,
     style: [
       'Marzen Lager',
       'Imperial', 
@@ -32,7 +32,7 @@ const coloradoBeer = [
   },
   {
     name: 'Maharaja',
-    brewery: 'Avery Brewing Co.',
+    breweryID: 1,
     style: [
       'Double IPA',
       'Imperial IPA'
@@ -48,7 +48,7 @@ const coloradoBeer = [
   },
   {
     name: 'Old Jubilation',
-    brewery: 'Avery Brewing Co.',
+    breweryID: 1,
     style: [
       'English Warmer',
       'English Old Ale',
@@ -65,7 +65,7 @@ const coloradoBeer = [
   },
   {
     name: 'Tweak',
-    brewery: 'Avery Brewing Co.',
+    breweryID: 1,
     style: [
       'Barrel-Aged',
       'Stout'
@@ -81,7 +81,7 @@ const coloradoBeer = [
   },
   {
     name: 'White Rascal',
-    brewery: 'Avery Brewing Co.',
+    breweryID: 1,
     style: [
       'Belgian Wit',
       'Witbier'
@@ -95,7 +95,7 @@ const coloradoBeer = [
   },
   {
     name: 'BBA Here Be Monsters',
-    brewery: 'Cerebral Brewing',
+    breweryID: 2,
     style: [
       'Barrel-Aged',
       'Imperial Stout'
@@ -109,7 +109,7 @@ const coloradoBeer = [
   },
   {
     name: 'Nightmare on Brett (red wine casks)',
-    brewery: 'Crooked Stave',
+    breweryID: 3,
     style: [
       'Barrel-Aged',
       'Imperial Stout'
@@ -126,7 +126,7 @@ const coloradoBeer = [
   },
   {
     name: 'Origins',
-    brewery: 'Crooked Stave',
+    breweryID: 3,
     style: [
       'Flanders Red',
       'Sour'
@@ -142,7 +142,7 @@ const coloradoBeer = [
   },
   {
     name: 'Surette Provision',
-    brewery: 'Crooked Stave',
+    breweryID: 3,
     style: [
       'Saison',
       'Farmhouse Ale'
@@ -158,7 +158,7 @@ const coloradoBeer = [
   },
   {
     name: 'Vielle Artisinal Saison',
-    brewery: 'Crooked Stave',
+    breweryID: 3,
     style: [
       'Saison',
       'Farmhouse Ale'
@@ -173,7 +173,7 @@ const coloradoBeer = [
   },
   {
     name: 'Bligh\'s Barleywine',
-    brewery: 'Dry Dock Brewing Co.',
+    breweryID: 4,
     style: [
       'Barleywine',
       'Barrel-Aged'
@@ -188,7 +188,7 @@ const coloradoBeer = [
   },
   {
     name: 'Big Bad Baptista',
-    brewery: 'Epic Brewing Co.',
+    breweryID: 5,
     style: [
       'Barrel-Aged',
       'Imperial Stout'
@@ -203,7 +203,7 @@ const coloradoBeer = [
   },
   {
     name: 'Double Barrel Big Bad Baptist',
-    brewery: 'Epic Brewing Co.',
+    breweryID: 5,
     style: [
       'Barrel-Aged'
       'Imperial Stout'
@@ -219,7 +219,7 @@ const coloradoBeer = [
   },
   {
     name: 'BBA Malice and Darkness',
-    brewery: 'Fiction Beer Co.',
+    breweryID: 6,
     style: [
       'Imperial Stout'
       ],
@@ -235,7 +235,7 @@ const coloradoBeer = [
   },
   {
     name: 'Raspberry Provicial',
-    brewery: 'Funkwerks',
+    breweryID: 7,
     style: [
       'American Wild Ale',
       'Sour'
@@ -249,7 +249,7 @@ const coloradoBeer = [
   },
   {
     name: 'Ten',
-    brewery: 'Funkwerks',
+    breweryID: 7,
     style: [
       'Quad Ale',
       'Quadrupel Ale',
@@ -265,7 +265,7 @@ const coloradoBeer = [
   },
   {
     name: 'Fresh Hop Pale Ale',
-    brewery: 'Great Divide',
+    breweryID: 8,
     style: [
       'American Pale Ale'
       'Pale Ale',
@@ -281,7 +281,7 @@ const coloradoBeer = [
   },
   {
     name: 'Hoss Oktoberfest Lager',
-    brewery: 'Great Divide',
+    breweryID: 8,
     style: [
       'Marzen Lager',
       'Oktoberfest',
@@ -296,7 +296,7 @@ const coloradoBeer = [
   },
   {
     name: 'St. Vrain',
-    brewery: 'Left Hand',
+    breweryID: 9,
     style: [
       'Belgian',
       'Tripel Ale'
@@ -312,7 +312,7 @@ const coloradoBeer = [
   },
   {
     name: 'Blackberry Barleywine',
-    brewery: 'New Belgium',
+    breweryID: 10,
     style: [
       'Barleywine'
       ],
@@ -325,7 +325,7 @@ const coloradoBeer = [
   },
   {
     name: 'La Folie',
-    brewery: 'New Belgium',
+    breweryID: 10,
     style: [
       'Oud Bruin',
       'Sour'
@@ -340,7 +340,7 @@ const coloradoBeer = [
   },
   {
     name: 'Trippel',
-    brewery: 'New Belgium',
+    breweryID: 10,
     style: [
       'Belgian'
       'Tripel Ale'
@@ -356,7 +356,7 @@ const coloradoBeer = [
   },
   {
     name: 'Easy Street Wheat',
-    brewery: 'Odell Brewing Co.',
+    breweryID: 11,
     style: [
       'Wheat Beer',
       'American Pale Wheat'
@@ -370,7 +370,7 @@ const coloradoBeer = [
   },
   {
     name: 'Mercenary DIPA',
-    brewery: 'Odell Brewing Co.',
+    breweryID: 11,
     style: [
       'Double IPA',
       'Imperial IPA'
@@ -384,7 +384,7 @@ const coloradoBeer = [
   },
   {
     name: 'St. Lupulin',
-    brewery: 'Odell Brewing Co.',
+    breweryID: 11,
     style: [
       'American Pale Ale',
       'Extra Pale Ale'
@@ -399,7 +399,7 @@ const coloradoBeer = [
   },
   {
     name: 'Dale\'s Pale Ale',
-    brewery: 'Oskar Blues',
+    breweryID: 12,
     style: [
       'American Pale Ale'
       ],
@@ -414,7 +414,7 @@ const coloradoBeer = [
   },
   {
     name: 'Pinner',
-    brewery: 'Oskar Blues',
+    breweryID: 12,
     style: [
       'IPA',
       'Session IPA'
@@ -429,7 +429,7 @@ const coloradoBeer = [
   },
   {
     name: 'Ten FIDY',
-    brewery: 'Oskar Blues',
+    breweryID: 12,
     style: [
       'Imperial Stout'
       ],
@@ -442,7 +442,7 @@ const coloradoBeer = [
   },
   {
     name: 'Rum Barrel Ten FIDY',
-    brewery: 'Oskar Blues',
+    breweryID: 12,
     style: [
       'Imperial Stout',
       'Barrel-Aged'
@@ -458,7 +458,7 @@ const coloradoBeer = [
   },
   {
     name: 'Java BBA Ten FIDY',
-    brewery: 'Oskar Blues',
+    breweryID: 12,
     style: [
       'Barrel-Aged'
       'Imperial Stout'
@@ -473,7 +473,7 @@ const coloradoBeer = [
   },
   {
     name: 'BBA Nightmare Fuel',
-    brewery: 'River North',
+    breweryID: 13,
     style: [
       'Barrel-Aged',
       'Imperial Stout'
@@ -490,7 +490,7 @@ const coloradoBeer = [
   },
   {
     name: 'Mr. Sandman',
-    brewery: 'River North',
+    breweryID: 13,
     style: [
       'Imperial Stout'
       ],
@@ -505,7 +505,7 @@ const coloradoBeer = [
   },
   {
     name: 'Rudie',
-    brewery: 'Ska Brewing Co.',
+    breweryID: 14,
     style: [
       'IPA',
       'Session IPA'
@@ -519,7 +519,7 @@ const coloradoBeer = [
   },
   {
     name: 'Juicy Banger',
-    brewery: 'Station 26 Brewing Co.',
+    breweryID: 15,
     style: [
       'American IPA'
       ],
@@ -532,7 +532,7 @@ const coloradoBeer = [
   },
   {
     name: 'Space Wrangler',
-    brewery: 'Station 26 Brewing Co.',
+    breweryID: 15,
     style: [
       'American IPA'
       ],
@@ -545,7 +545,7 @@ const coloradoBeer = [
   },
   {
     name: 'Christmas Ale',
-    brewery: 'Upslope',
+    breweryID: 16,
     style: [
       'Belgian Strong Ale',
       'Belgian Dark Strong Ale',
@@ -561,7 +561,7 @@ const coloradoBeer = [
   },
   {
     name: 'Juicy Bits',
-    brewery: 'Weldwerks Brewing Co.',
+    breweryID: 17,
     style: [
       'New England IPA'
       'IPA'
@@ -575,7 +575,7 @@ const coloradoBeer = [
   },
   {
     name: 'Mocha Achromatic',
-    brewery: 'Weldwerks Brewing Co.',
+    breweryID: 17,
     style: [
       'Coffee Stout',
       'Stout'
@@ -591,7 +591,7 @@ const coloradoBeer = [
   },
   {
     name: 'Peppermint Mocha Achromatic',
-    brewery: 'Weldwerks Brewing Co.',
+    breweryID: 17,
     style: [
       'Stout',
       'Coffee Stout'
@@ -603,6 +603,80 @@ const coloradoBeer = [
       'coffee'
       ]
   }
+];
+
+const coloradoBreweries = [
+  {
+    name: 'Avery Brewing Co.',
+    breweryID: 1,
+  },
+  {
+    name: 'Cerebral Brewing',
+    breweryID: 2,
+  },
+  {
+    name: 'Crooked Stave',
+    breweryID: 3,
+  },
+  {
+    name: 'Dry Dock Brewing Co.',
+    breweryID: 4,
+  },
+  {
+    name: 'Epic Brewing Co.',
+    breweryID: 5,
+  },
+  {
+    name: 'Fiction Beer Co.',
+    breweryID: 6,
+  },
+  {
+    name: 'Funkwerks',
+    breweryID: 7,
+  },
+  {
+    name: 'Great Divide',
+    breweryID: 8,
+  },
+  {
+    name: 'Left Hand',
+    breweryID: 9,
+  },
+  {
+    name: 'New Belgium',
+    breweryID: 10,
+  },
+  {
+    name: 'Odell Brewing Co.',
+    breweryID: 11,
+  },
+  {
+    name: 'Oskar Blues',
+    breweryID: 12,
+  },
+  {
+    name: 'River North',
+    breweryID: 13,
+  },
+  {
+    name: 'Ska Brewing Co.',
+    breweryID: 14,
+  },
+  {
+    name: 'Station 26 Brewing Co.',
+    breweryID: 15,
+  },
+  {
+    name: 'Upslope',
+    breweryID: 16,
+  },
+  {
+    name: 'Weldwerks Brewing Co.',
+    breweryID: 17,
+  },
 ]
 
-module.exports = coloradoBeer;
+module.exports = {
+  coloradoBeer,
+  coloradoBreweries
+}
