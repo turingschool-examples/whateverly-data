@@ -7,8 +7,6 @@ const cors = require('cors');
 
 
 // DATASETS
-const students = require('./datasets/alumni.js');
-
 const { phishShows, setLists } = require('./datasets/phishShowData.js');
 const { adoptableDogs, rescues } = require('./datasets/adopt-a-dog.js');
 const { tvShow, spinOff } = require('./datasets/Buffy.js');
@@ -42,7 +40,7 @@ app.use(express.static('public'));
 app.set('port', process.env.PORT || 3000);
 
 datasets.forEach(dataset => {
-  app.get(`/${dataset.name}`, (request, response) => {
+  app.get(`/api/v1/${dataset.name}`, (request, response) => {
     response.send({ [dataset.name]: dataset.data });
   });
 });
