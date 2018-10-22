@@ -1,4 +1,4 @@
-const showData = [
+const phishShows = [
   {
     id: 1903,
     date: "2017-01-13",
@@ -505,7 +505,7 @@ const showData = [
   }
 ]
 
-const setlistData = {
+const setLists = {
   1903: [
     {
       id: 31806,
@@ -4912,6 +4912,6 @@ const setlistData = {
 }
 
 module.exports = {
-  showData,
-  setlistData
+  phishShows,
+  setLists
 }
