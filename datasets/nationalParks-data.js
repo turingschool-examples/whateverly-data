@@ -121,7 +121,7 @@ const trails = [
   },
   {
     "parkName": "Yosemite",
-    "trailName": "Cathedral Lakes"
+    "trailName": "Cathedral Lakes",
     "distanceRoundtripMiles": 7,
     "openInWinter": false,
     "startingElevationFeet": 8500, 

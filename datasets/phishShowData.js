@@ -613,7 +613,7 @@ const setlistData = {
       title: "Twist",
       position: 14,
       duration: 570984,
-      set_name: "Set 2",,
+      set_name: "Set 2",
       mp3: "https://phish.in/audio/000/031/819/31819.mp3"
     },
     {

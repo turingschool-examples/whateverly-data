@@ -205,7 +205,7 @@ const coloradoBeer = [
     name: 'Double Barrel Big Bad Baptist',
     breweryID: 5,
     style: [
-      'Barrel-Aged'
+      'Barrel-Aged',
       'Imperial Stout'
       ],
     abv: 12.8,
@@ -267,7 +267,7 @@ const coloradoBeer = [
     name: 'Fresh Hop Pale Ale',
     breweryID: 8,
     style: [
-      'American Pale Ale'
+      'American Pale Ale',
       'Pale Ale',
       'Fresh Hop Ale'
       ],
@@ -342,7 +342,7 @@ const coloradoBeer = [
     name: 'Trippel',
     breweryID: 10,
     style: [
-      'Belgian'
+      'Belgian',
       'Tripel Ale'
       ],
     abv: 8.5,
@@ -460,7 +460,7 @@ const coloradoBeer = [
     name: 'Java BBA Ten FIDY',
     breweryID: 12,
     style: [
-      'Barrel-Aged'
+      'Barrel-Aged',
       'Imperial Stout'
       ],
     abv: 10.5,
@@ -563,7 +563,7 @@ const coloradoBeer = [
     name: 'Juicy Bits',
     breweryID: 17,
     style: [
-      'New England IPA'
+      'New England IPA',
       'IPA'
       ],
     abv: 6.5,

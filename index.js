@@ -14,7 +14,7 @@ const { adoptableDogs, rescues } = require('./datasets/adopt-a-dog.js');
 const { tvShow, spinoff } = require('./datasets/Buffy.js');
 const { characters, stages } = require('./datasets/smash_data_json.js');
 const { countries, continents } = require('./datasets/countries.js');
-const { coloradoBeer, coloradoBreweries } = require('./datasets/coloradoBeers.js');
+const { coloradoBeer, coloradoBreweries } = require('./datasets/coloradoBeer.js');
 const { nationalParks, trails } = require('./datasets/nationalParks-data.js');
 
 const datasets = [ 
