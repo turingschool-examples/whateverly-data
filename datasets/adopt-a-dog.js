@@ -546,5 +546,4 @@ const rescues = {
   }
 }
 
-module.exports = adoptableDogs;
-module.exports = rescues;
+module.exports = { adoptableDogs, rescues }
