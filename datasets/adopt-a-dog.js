@@ -1,544 +1,619 @@
 const adoptableDogs = {
   puppy: [
-    Hannah: {
+    { name: 'Hannah',
+      img: 'hannah.jpg'
       breed: 'Border Collie',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Female',
       age: '3 months',
       weight: 20,
       size: 'Medium',
-      house-trained: false,
+      house_trained: false,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'Downtown Dog Rescue'
     },
-    Jude: {
+    { name: 'Jude',
+      img: 'jude.jpg'
       breed: 'Catahoula Leopard Dog',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: '6 months',
       weight: 15,
       size: 'Medium',
-      house-trained: false,
+      house_trained: false,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'Little White Dog Rescue'
     },
-    Wiley: {
+    { name: 'Wiley',
+      img: 'wiley.jpg'
       breed: 'Belgian Shepherd',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: '7 months',
       weight: 30,
       size: 'Medium',
-      house-trained: false,
+      house_trained: false,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'The Good Dog Rescue'
     },
-    Bessy: {
+    { name: 'Bessy',
+      img: 'bessy.jpg'
       breed: 'Golden Retriever',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Female',
       age: '3 months',
       weight: 10,
       size: 'Medium',
-      house-trained: false,
+      house_trained: false,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'Main Line Animal Rescue'
     },
-    Spirit: {
+    { name: 'Spirit',
+      img: 'spirit.jpg'
       breed: 'Labrador Retriever',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Male',
       age: '5 months',
       weight: 14,
       size: 'Medium',
-      house-trained: false,
+      house_trained: false,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Downtown Dog Rescue'
     }
-  ]
+  ],
   young: [
-    Dodie: {
+    { name: 'Dodie',
+      img: 'dodie.jpg'
       breed: 'Catahoula Leopard Dog',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Female',
       age: 1,
       weight: 45,
       size: 'medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'Soul Dog Rescue'
     },
-    Tatum: {
+    { name: 'Tatum',
+      img: 'tatum.jpg'
       breed: 'Mastiff',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: 1,
       weight: 64,
       size: 'medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Little White Dog Rescue'
     },
-    Cody: {
+    { 
+      name: 'Cody',
+      img: 'cody.jpg'
       breed: 'Siberian Husky',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: 1,
       weight: 43,
       size: 'medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Main Line Animal Rescue'
     },
-    Benji: {
+    { 
+      name: 'Benji',
+      img: 'benji.jpg'
       breed: 'American Bulldog',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: 1,
       weight: 40,
       size: 'medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'The Good Dog Rescue'
     },
-    Beans: {
+    { 
+      name: 'Beans',
+      img: 'beans.jpg'
       breed: 'Australian Cattle Dog',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Female',
       age: 1,
       weight: 72,
       size: 'medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Downtown Dog Rescue'
     },
-    Skeeter: {
-      breed: 'Skeeter',
-      mix-breed: false,
+    { 
+      name: 'Skeeter',
+      img: 'skeeter.jpg'
+      breed: 'Beagle',
+      mix_breed: false,
       gender: 'Female',
       age: 1,
       weight: 53,
       size: 'medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'Big Fluffy Dog Rescue'
     },
-    Ezra: {
+    { 
+      name: 'Ezra',
+      img: 'ezra.jpg'
       breed: 'German Shepherd',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Male',
       age: 1,
       weight: 70,
       size: 'Medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'Soul Dog Rescue'
     },
-    Tim: {
+    { 
+      name: 'Tim',
+      img: 'tim.jpg'
       breed: 'Blue Heeler',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: 1,
       weight: 46,
       size: 'Medium',
-      house-trained: false,
+      house_trained: false,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'Little White Dog Rescue'
     },
-    Brandon: {
+    {
+      name: 'Brandon',
+      img: 'brandon.jpg'
       breed: 'Weimaraner',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: 1,
       weight: 46,
       size: 'Medium',
-      house-trained: false,
+      house_trained: false,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'The Good Dog Rescue'
     },
-    Piper: {
+    { 
+      name: 'Piper',
+      img: 'piper.jpeg'
       breed: 'Belgian Shepherd',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Female',
       age: 1,
       weight: 40,
       size: 'Medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'Main Line Animal Rescue'
     },
-    Zach: {
+    { 
+      name: 'Zach',
+      img: 'zach.jpeg'
       breed: 'Bull Terrier',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: 1,
       weight: 43,
       size: 'Medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'OutPaws Animal Rescue'
     },
-    Sour Cream: {
+    { 
+      name: 'Sour Cream',
+      img: 'sour_cream.jpg'
       breed: 'Bull Terrier',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Male',
       age: 1,
       weight: 43,
       size: 'Medium',
-      house-trained: false,
+      house_trained: false,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'Downtown Dog Rescue'
     },
-    Zeus: {
+    { 
+      name: 'Zeus',
+      img: 'zeus.jpg'
       breed: 'Cane Corso',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Male',
       age: 1,
       weight: 40,
       size: 'Large',
-      house-trained: false,
+      house_trained: false,
       vaccinations: true,
-      spayed/neutered: true
+      spayed_neutered: true,
       rescue: 'Big Fluffy Dog Rescue'
     },
-    Floyd: {
+    { 
+      name: 'Floyd',
+      img: 'floyd.jpg'
       breed: 'Great Pyrenees',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Male',
       age: 2,
       weight: 90,
       size: 'Large',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Soul Dog Rescue'
     },
-    Rio: {
+    { 
+      name: 'Rio',
+      img: 'rio.jpg'
       breed: 'Chihuahua',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Female',
       age: 1,
       weight: 15,
       size: 'Small',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'The Good Dog Rescue'
     }
-  ]
-  adult: [
-    Spike: {
+  ],
+adult: [
+    {
+      name: 'Spike',
+      img: 'spike.jpg'
       breed: 'Australian Cattle Dog',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: 3,
       weight: 64,
       size: 'medium',
-      house-trained: false,
+      house_trained: false,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Downtown Dog Rescue'
     },
-    Cooper: {
+    {
+      name: 'Cooper',
+      img: 'cooper.jpg'
       breed: 'Hound',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: 2,
       weight: 33,
       size: 'medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Little White Dog Rescue'
     },
-    Pandora: {
+    {
+      name: 'Pandora',
+      img: 'pandora.jpg'
       breed: 'Labrador Retriever',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Female',
       age: 6,
       weight: 40,
       size: 'medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Soul Dog Rescue'
     },
-    Jimmy: {
+    { 
+      name: 'Jimmy',
+      img: 'jimmy.jpg'
       breed: 'Labrador Retriever',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Male',
       age: 3,
       weight: 62,
       size: 'medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Main Line Animal Rescue'
     },
-    Boone: {
+    {
+      name: 'Boone',
+      img: 'boone.jpg'
       breed: 'Coonhound',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: 5,
       weight: 96,
       size: 'large',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'The Good Dog Rescue'
     },
-    Azur: {
+    {
+      name: 'Azur',
+      img: 'azur.jpg'
       breed: 'Siberian Husky',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Female',
       age: 6,
       weight: 60,
       size: 'medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Downtown Dog Rescue'
     },
-    Dollie: {
+    {
+      name: 'Dollie',
+      img: 'dollie.jpg'
       breed: 'Welsh Corgi',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Female',
       age: 4,
       weight: 30,
       size: 'small',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'OutPaws Animal Rescue'
     },
-    Harrison: {
+    {
+      name: 'Harrison',
+      img: 'harrison.jpg'
       breed: 'Greyhound',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: 3,
       weight: 80,
       size: 'large',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Soul Dog Rescue'
     },
-    Harrison: {
+    {
+      name: 'Harrison',
+      img: 'harrison2.jpg'
       breed: 'Rottweiler',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Male',
       age: 6,
       weight: 90,
       size: 'large',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'The Good Dog Rescue'
     },
-    Messiah: {
+    {
+      name: 'Messiah',
+      img: 'Messiah.jpeg'
       breed: 'German Shepherd',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: 4,
       weight: 46,
       size: 'Medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Big Fluffy Dog Rescue'
     },
-    Foxy: {
+    {
+      name: 'Foxy',
+      img: 'foxy.jpg'
       breed: 'Fox Terrier',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Female',
       age: 4,
       weight: 20,
       size: 'Small',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue:'Little White Dog Rescue'
     },
-    Louis Lane: {
+    {
+      name: 'Louis Lane',
+      img: 'Louis_Lane.jpg'
       breed: 'Australian Shepherd',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Female',
       age: 5,
       weight: 40,
       size: 'Medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Main Line Animal Rescue'
     },
-    Kaia: {
+    {
+      name: 'Kaia',
+      img: 'kaia.jpg'
       breed: 'English Bulldog',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Female',
       age: 5,
       weight: 40,
       size: 'Medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Downtown Dog Rescue'
     },
-    Chico: {
+    {
+      name: 'Chico',
+      img: 'chico.jpg'
       breed: 'Doberman Pinscher',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Male',
       age: 3,
       weight: 80,
       size: 'Large',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'The Good Dog Rescue'
     },
-    Aggie: {
+    {
+      name: 'Aggie',
+      img: 'aggie.jpg'
       breed: 'Saint Bernard',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Male',
       age: 4,
       weight: 90,
       size: 'Large',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Soul Dog Rescue'
     },
-    Midnight: {
+    {
+      name: 'Midnight',
+      img: 'midnight.jpeg'
       breed: 'Cocker Spaniel',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Male',
       age: 4,
       weight: 35,
       size: 'Medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue:'Little White Dog Rescue'
     },
-    Daryl: {
+    {
+      name: 'Daryl',
+      img: 'daryl.jpeg'
       breed: 'Doberman Pinscher',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Male',
       age: 7,
       weight: 90,
       size: 'Large',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'OutPaws Animal Rescue'
     },
-    Kelsey: {
+    {
+      name: 'Kelsey',
+      img: 'kelsey.jpg'
       breed: 'Chihuahua',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Female',
       age: 4,
       weight: 10,
       size: 'Small',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Main Line Animal Rescue'
     },
-    Bessie: {
+    {
+      name: 'Bessie',
+      img: 'bessie.jpg'
       breed: 'Beagle',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Female',
       age: 3,
       weight: 35,
       size: 'Medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'The Good Dog Rescue'
     },
-    Lucy: {
+    {
+      name: 'Lucy',
+      img: 'lucy.jpg'
       breed: 'Basset Hound',
-      mix-breed: true,
+      mix_breed: true,
       gender: 'Female',
       age: 6,
       weight: 60,
       size: 'Medium',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Downtown Dog Rescue'
     }
   ]
   senior: [
-    Kali: {
+    {
+      name: 'Kali',
+      img: 'kali.jpg'
       breed: 'American Bulldog',
-      mix-breed: false,
+      mix_breed: false,
       gender: 'Male',
       age: 10,
       weight: 80,
       size: 'Large',
-      house-trained: true,
+      house_trained: true,
       vaccinations: true,
-      spayed/neutered: true,
+      spayed_neutered: true,
       rescue: 'Little White Dog Rescue'
     }
   ]
 }
 
 const rescues = {
-  Big Fluffy Dog Rescue: {
+  Big_Fluffy_Dog_Rescue: {
     Location: 'Littleton, CO',
     Email: 'bigfluffydogrescue@gmail.com',
     Phone: '303-345-9873',
     Webiste: 'www.bigfluffydogrescue.com'
   },
-  OutPaws Animal Rescue: {
+  OutPaws_Animal_Rescue: {
     Location: 'Wheatridge, CO',
     Email: 'outpawsanimalrescue@yahoo.com',
     Phone: '303-384-0238',
     Webiste: 'www.outpawsanimalrescue.com'
   },
-  Soul Dog Rescue: {
+  Soul_Dog_Rescue: {
     Location: 'Aurora, CO',
     Email: 'souldogrescue@gmail.com',
     Phone: '303-373-8462',
     Webiste: 'www.souldogrescue.com'
   },
-  Main Line Animal Rescue: {
+  Main_Line_Animal_Rescue: {
     Location: 'Arvada, CO',
     Email: 'mainlineanimalrescue@gmail.com',
     Phone: '303-937-7823',
     Webiste: 'www.mainlineanimalrescue.com'
   },
-  Downtown Dog Rescue: {
+  Downtown_Dog_Rescue: {
     Location: 'Denver, CO',
     Email: 'downtowndogrescue@gmail.com',
     Phone: '303-902-8732',
     Webiste: 'www.downtowndogrescue.com'
   },
-  The Good Dog Rescue: {
+  The_Good_Dog_Rescue: {
     Location: 'Englewood, CO',
     Email: 'thegooddogrescue@gmail.com',
     Phone: '303-926-7844',
     Webiste: 'www.thegooddogrescue.com'
   },
-  Little White Dog Rescue: {
+  Little_White_Dog_Rescue: {
     Location: 'Parker, CO',
     Email: 'littlewhitedogrescue@gmail.com',
     Phone: '303-903-1297',
