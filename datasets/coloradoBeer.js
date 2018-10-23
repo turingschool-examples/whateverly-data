@@ -12,7 +12,8 @@ const coloradoBeer = [
       'salty',
       'tequila',
       'spicy'
-      ]
+      ],
+    image: 'https://imgur.com/2BUsyQa'
   },
   {
     name: 'The Kaiser',
@@ -28,7 +29,8 @@ const coloradoBeer = [
       'prune',
       'molasses',
       'toffee'
-      ]
+      ],
+    image: 'https://imgur.com/xnKi7eB'
   },
   {
     name: 'Maharaja',
@@ -44,7 +46,8 @@ const coloradoBeer = [
       'toffee',
       'pine',
       'tropical'
-      ]
+      ],
+    image: 'https://imgur.com/NTtpnBh'
   },
   {
     name: 'Old Jubilation',
@@ -61,7 +64,8 @@ const coloradoBeer = [
       'plum',
       'molasses',
       'toffee'
-      ]
+      ],
+    image: 'https://imgur.com/fG3ogvA'
   },
   {
     name: 'Tweak',
@@ -77,7 +81,8 @@ const coloradoBeer = [
       'mocha',
       'maple',
       'bourbon'
-      ]
+      ],
+    image: 'https://imgur.com/KdsvqYw'
   },
   {
     name: 'White Rascal',
@@ -91,7 +96,8 @@ const coloradoBeer = [
       'dry',
       'coriander',
       'clove'
-      ]
+      ],
+    image: 'https://imgur.com/SHgcZA2'
   },
   {
     name: 'BBA Here Be Monsters',
@@ -105,7 +111,8 @@ const coloradoBeer = [
       'bourbon',
       'chocolate',
       'toffee'
-      ]
+      ],
+    image: 'https://imgur.com/RCALF0i'
   },
   {
     name: 'Nightmare on Brett (red wine casks)',
@@ -122,7 +129,8 @@ const coloradoBeer = [
       'roasted',
       'oaky',
       'heavy'
-      ]
+      ],
+    image: 'https://imgur.com/9AB6D9l'
   },
   {
     name: 'Origins',
@@ -138,7 +146,8 @@ const coloradoBeer = [
       'berries',
       'dry',
       'oaky'
-      ]
+      ],
+    image: 'https://imgur.com/gKEGEkR'
   },
   {
     name: 'Surette Provision',
@@ -154,7 +163,8 @@ const coloradoBeer = [
       'citrus',
       'butter',
       'rustic'
-      ]
+      ],
+    image: 'https://imgur.com/PXMgz3q'
   },
   {
     name: 'Vielle Artisinal Saison',
@@ -169,7 +179,8 @@ const coloradoBeer = [
       'green apple',
       'lemon',
       'tangy'
-      ]
+      ],
+    image: 'https://imgur.com/UaEFjZc'
   },
   {
     name: 'Bligh\'s Barleywine',
@@ -184,7 +195,8 @@ const coloradoBeer = [
       'bourbon',
       'syrup',
       'butterscotch'
-      ]
+      ],
+    image: 'https://imgur.com/yugtrro'
   },
   {
     name: 'Big Bad Baptista',
@@ -199,13 +211,14 @@ const coloradoBeer = [
       'cinnamon',
       'coffee',
       'vanilla'
-      ]
+      ],
+    image: 'https://imgur.com/TYYwzR2'
   },
   {
     name: 'Double Barrel Big Bad Baptist',
     breweryID: 5,
     style: [
-      'Barrel-Aged'
+      'Barrel-Aged',
       'Imperial Stout'
       ],
     abv: 12.8,
@@ -215,7 +228,8 @@ const coloradoBeer = [
       'bourbon',
       'smokey',
       'roasted'
-      ]
+      ],
+    image: 'https://imgur.com/poSMZo7'
   },
   {
     name: 'BBA Malice and Darkness',
@@ -231,7 +245,8 @@ const coloradoBeer = [
       'oak',
       'dark chocolate',
       'smokey'
-      ]
+      ],
+    image: 'https://imgur.com/ObCeKHL'
   },
   {
     name: 'Raspberry Provicial',
@@ -245,7 +260,8 @@ const coloradoBeer = [
       'sour',
       'tart',
       'raspberry'
-      ]
+      ],
+    image: 'https://imgur.com/nEZgzuZ'
   },
   {
     name: 'Ten',
@@ -261,13 +277,14 @@ const coloradoBeer = [
       'dark fruit',
       'caramel',
       'toffee'
-      ]
+      ],
+    image: 'https://imgur.com/1FVsJfr'
   },
   {
     name: 'Fresh Hop Pale Ale',
     breweryID: 8,
     style: [
-      'American Pale Ale'
+      'American Pale Ale',
       'Pale Ale',
       'Fresh Hop Ale'
       ],
@@ -277,7 +294,8 @@ const coloradoBeer = [
       'grass',
       'spicy',
       'dry'
-      ]
+      ],
+    image: 'https://imgur.com/ffCT1Fu'
   },
   {
     name: 'Hoss Oktoberfest Lager',
@@ -292,7 +310,8 @@ const coloradoBeer = [
       'earthy',
       'malty',
       'dry'
-      ]
+      ],
+    image: 'https://imgur.com/msDGpA5'
   },
   {
     name: 'St. Vrain',
@@ -308,7 +327,8 @@ const coloradoBeer = [
       'banana',
       'stone fruit',
       'bready'
-      ]
+      ],
+    image: 'https://imgur.com/DSLCtk5'
   },
   {
     name: 'Blackberry Barleywine',
@@ -321,7 +341,8 @@ const coloradoBeer = [
       'jam',
       'blackberry',
       'rich'
-      ]
+      ],
+    image: 'https://imgur.com/xonYxsF'
   },
   {
     name: 'La Folie',
@@ -336,13 +357,14 @@ const coloradoBeer = [
       'cherry',
       'oaky',
       'balanced'
-      ]
+      ],
+    image: 'https://imgur.com/n0OvUOe'
   },
   {
     name: 'Trippel',
     breweryID: 10,
     style: [
-      'Belgian'
+      'Belgian',
       'Tripel Ale'
       ],
     abv: 8.5,
@@ -352,7 +374,8 @@ const coloradoBeer = [
       'citrus',
       'coriander',
       'anise'
-      ]
+      ],
+    image: 'https://imgur.com/ASfHVsU'
   },
   {
     name: 'Easy Street Wheat',
@@ -366,7 +389,8 @@ const coloradoBeer = [
       'creamy',
       'bready',
       'crisp'
-      ]
+      ],
+    image: 'https://imgur.com/2rook8H'
   },
   {
     name: 'Mercenary DIPA',
@@ -380,7 +404,8 @@ const coloradoBeer = [
       'lemon',
       'grassy',
       'hoppy'
-      ]
+      ],
+    image: 'https://imgur.com/VaXHWHN'
   },
   {
     name: 'St. Lupulin',
@@ -395,7 +420,8 @@ const coloradoBeer = [
       'hoppy',
       'bready',
       'balanced'
-      ]
+      ],
+    image: 'https://imgur.com/1n1HIOQ'
   },
   {
     name: 'Dale\'s Pale Ale',
@@ -410,7 +436,8 @@ const coloradoBeer = [
       'pine',
       'malty',
       'balanced'
-      ]
+      ],
+    image: 'https://imgur.com/XzcM5eW'
   },
   {
     name: 'Pinner',
@@ -425,7 +452,8 @@ const coloradoBeer = [
       'clementine',
       'tangerine',
       'hoppy'
-      ]
+      ],
+    image: 'https://imgur.com/AVhiW18'
   },
   {
     name: 'Ten FIDY',
@@ -438,7 +466,8 @@ const coloradoBeer = [
       'coffee',
       'light roast',
       'fruit'
-      ]
+      ],
+    image: 'https://imgur.com/lg0XxrO'
   },
   {
     name: 'Rum Barrel Ten FIDY',
@@ -454,13 +483,14 @@ const coloradoBeer = [
       'coconut',
       'cocoa',
       'clove'
-      ]
+      ],
+    image: 'https://imgur.com/KYmDJjF'
   },
   {
     name: 'Java BBA Ten FIDY',
     breweryID: 12,
     style: [
-      'Barrel-Aged'
+      'Barrel-Aged',
       'Imperial Stout'
       ],
     abv: 10.5,
@@ -469,7 +499,8 @@ const coloradoBeer = [
       'roasted',
       'kahlua',
       'dark fruit'
-      ]
+      ],
+    image: 'https://imgur.com/0Z2EG08'
   },
   {
     name: 'BBA Nightmare Fuel',
@@ -486,7 +517,8 @@ const coloradoBeer = [
       'coffee',
       'dark fruit',
       'chocolate'
-      ]
+      ],
+    image: 'https://imgur.com/2rook8H'
   },
   {
     name: 'Mr. Sandman',
@@ -501,7 +533,8 @@ const coloradoBeer = [
       'raspberry',
       'roasted',
       'molasses'
-      ]
+      ],
+    image: 'https://imgur.com/V2vIiMy'
   },
   {
     name: 'Rudie',
@@ -515,7 +548,8 @@ const coloradoBeer = [
       'orange',
       'caramel',
       'tropical'
-      ]
+      ],
+    image: 'https://imgur.com/Y1I6lC5'
   },
   {
     name: 'Juicy Banger',
@@ -528,7 +562,8 @@ const coloradoBeer = [
       'hoppy',
       'toasty',
       'tropical'
-      ]
+      ],
+    image: 'https://imgur.com/XnoFmjf'
   },
   {
     name: 'Space Wrangler',
@@ -541,7 +576,8 @@ const coloradoBeer = [
       'honey',
       'hoppy',
       'juicy'
-      ]
+      ],
+    image: 'https://imgur.com/NZC2XIK'
   },
   {
     name: 'Christmas Ale',
@@ -557,13 +593,14 @@ const coloradoBeer = [
       'cinnamon',
       'clove',
       'dried fruit'
-      ]
+      ],
+    image: 'https://imgur.com/Qf5ys3E'
   },
   {
     name: 'Juicy Bits',
     breweryID: 17,
     style: [
-      'New England IPA'
+      'New England IPA',
       'IPA'
       ],
     abv: 6.5,
@@ -571,7 +608,8 @@ const coloradoBeer = [
       'sweet',
       'orange',
       'hazy'
-      ]
+      ],
+    image: 'https://imgur.com/39Wjl2i'
   },
   {
     name: 'Mocha Achromatic',
@@ -587,7 +625,8 @@ const coloradoBeer = [
       'smokey',
       'chocolate',
       'currant'
-      ]
+      ],
+    image: 'https://imgur.com/UrVaRQZ'
   },
   {
     name: 'Peppermint Mocha Achromatic',
@@ -601,7 +640,8 @@ const coloradoBeer = [
       'mint',
       'chocolate',
       'coffee'
-      ]
+      ],
+    image: 'https://imgur.com/Y0cqrCR'
   }
 ];
 
