@@ -9,7 +9,7 @@ const cors = require('cors');
 // DATASETS
 const { phishShows, setLists } = require('./datasets/phishShowData.js');
 const { adoptableDogs, rescues } = require('./datasets/adopt-a-dog.js');
-const { tvShow, spinOff } = require('./datasets/Buffy.js');
+const { tvShow, spinOff, episodes } = require('./datasets/Buffy.js');
 const { characters, stages } = require('./datasets/smash_data_json.js');
 const { countries, continents } = require('./datasets/countries.js');
 const { coloradoBeer, coloradoBreweries } = require('./datasets/coloradoBeer.js');
@@ -22,6 +22,7 @@ const datasets = [
   { name: 'rescues', data: rescues },
   { name: 'tvShow', data: tvShow },
   { name: 'spinoff', data: spinOff },
+  { name: 'episodes', data: episodes },
   { name: 'characters', data: characters },
   { name: 'stages', data: stages },
   { name: 'countries', data: countries },
