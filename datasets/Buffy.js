@@ -1068,7 +1068,7 @@ const spinOff = {
    },
    "creator":"Joss Whedon",
    "summary":"The vampire Angel, cursed with a soul, moves to Los Angeles and aids people with supernatural-related problems while questing for his own redemption.",
-   "episodes":[  
+   "episodes": [  
       {  
          "name":"City Of",
          "season":1,
@@ -1845,6 +1845,6 @@ const episodes = [
 
 module.exports = {
   tvShow, 
-  spinoff,
+  spinOff,
   episodes
 };

@@ -5,23 +5,39 @@ const http = require('http').Server(app);
 const bodyParser = require('body-parser');
 const cors = require('cors');
 
+
+// DATASETS
 const students = require('./datasets/alumni.js');
 
+const { phishShows, setLists } = require('./datasets/phishShowData.js');
+const { adoptableDogs, rescues } = require('./datasets/adopt-a-dog.js');
+const { tvShow, spinoff } = require('./datasets/Buffy.js');
+const { characters, stages } = require('./datasets/smash_data_json.js');
+const { countries, continents } = require('./datasets/countries.js');
+const { coloradoBeer, coloradoBreweries } = require('./datasets/coloradoBeer.js');
+const { nationalParks, trails } = require('./datasets/nationalParks-data.js');
+
+const datasets = [ 
+  phishShows, setLists,
+  adoptableDogs, rescues,
+  tvShow, spinoff,
+  characters, stages,
+  countries, continents,
+  coloradoBeer, coloradoBreweries,
+  nationalParks, trails
+];
+
+// EXPRESS CONFIGURATION
 app.use(cors());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('public'));
 app.set('port', process.env.PORT || 3000);
 
-app.get('/students', (request, response) => {
-  response.send({ students });
-});
-
-app.get('/students/:id', (request, response) => {
-  const { id } = request.params;
-  const student = students.find(student => student.id == id);
-  if (student) { return response.send(student); }
-  return response.sendStatus(404);
+datasets.forEach(dataset => {
+  app.get(`/${dataset}`, (request, response) => {
+    response.send({ dataset });
+  });
 });
 
 if (!module.parent) {
