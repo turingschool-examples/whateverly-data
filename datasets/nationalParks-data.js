@@ -1,73 +1,73 @@
 const nationalParks = [
    {
       "parkName":"Yosemite",
-      "state":"CA",
+      "usState":"CA",
       "vistorsLastYear":4336890,
       "yearEstablished":1890
    },
    {
       "parkName":"Zion",
-      "state":"UT",
+      "usState":"UT",
       "vistorsLastYear":4504812,
       "yearEstablished":1919
    },
    {
       "parkName":"Arches",
-      "state":"UT",
+      "usState":"UT",
       "vistorsLastYear":1539028,
       "yearEstablished":1929
    },
    {
       "parkName":"Everglades",
-      "state":"FL",
+      "usState":"FL",
       "vistorsLastYear":1018557,
       "yearEstablished":1934
    },
    {
       "parkName":"Great Smokey Mountains",
-      "state":"NC",
+      "usState":"NC",
       "vistorsLastYear":11338893,
       "yearEstablished":1983
    },
    {
       "parkName":"Grand Canyon",
-      "state":"AZ",
+      "usState":"AZ",
       "vistorsLastYear":6254238,
       "yearEstablished":1919
    },
    {
       "parkName":"Rocky Mountain",
-      "state":"CO",
+      "usState":"CO",
       "vistorsLastYear":4437215,
       "yearEstablished":1915
    },
    {
       "parkName":"Yellowstone",
-      "state":"MT",
+      "usState":"MT",
       "vistorsLastYear":4116524,
       "yearEstablished":1872
    },
    {
       "parkName":"Olympic",
-      "state":"CA",
+      "usState":"WH",
       "vistorsLastYear":3401996,
       "yearEstablished":1938
    },
    {
       "parkName":"Glacier",
-      "state":"CA",
+      "usState":"MT",
       "vistorsLastYear":3305512,
       "yearEstablished":1910
    },
    {
       "parkName":"Death Valley",
-      "state":"CA",
+      "usState":"CA",
       "vistorsLastYear":1294827,
       "yearEstablished":1994
    },
    {
       "parkName":"Bryce Canyon",
-      "state":"CA",
+      "usState":"UT",
       "vistorsLastYear":2571684,
       "yearEstablished":1928
    }
