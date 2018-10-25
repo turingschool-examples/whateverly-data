@@ -1727,7 +1727,7 @@ const episodes = [
 ];
 
 
-export {
+module.exports = {
   tvShow, 
   spinOff,
   episodes
