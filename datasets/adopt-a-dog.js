@@ -74,7 +74,7 @@ const adoptableDogs = {
       gender: 'Female',
       age: 1,
       weight: 45,
-      size: 'medium',
+      size: 'Medium',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -87,7 +87,7 @@ const adoptableDogs = {
       gender: 'Male',
       age: 1,
       weight: 64,
-      size: 'medium',
+      size: 'Medium',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -101,7 +101,7 @@ const adoptableDogs = {
       gender: 'Male',
       age: 1,
       weight: 43,
-      size: 'medium',
+      size: 'Medium',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -115,7 +115,7 @@ const adoptableDogs = {
       gender: 'Male',
       age: 1,
       weight: 40,
-      size: 'medium',
+      size: 'Medium',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -129,7 +129,7 @@ const adoptableDogs = {
       gender: 'Female',
       age: 1,
       weight: 72,
-      size: 'medium',
+      size: 'Medium',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -143,7 +143,7 @@ const adoptableDogs = {
       gender: 'Female',
       age: 1,
       weight: 53,
-      size: 'medium',
+      size: 'Medium',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -285,7 +285,7 @@ adult: [
       gender: 'Male',
       age: 3,
       weight: 64,
-      size: 'medium',
+      size: 'Medium',
       house_trained: false,
       vaccinations: true,
       spayed_neutered: true,
@@ -299,7 +299,7 @@ adult: [
       gender: 'Male',
       age: 2,
       weight: 33,
-      size: 'medium',
+      size: 'Medium',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -313,7 +313,7 @@ adult: [
       gender: 'Female',
       age: 6,
       weight: 40,
-      size: 'medium',
+      size: 'Medium',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -327,7 +327,7 @@ adult: [
       gender: 'Male',
       age: 3,
       weight: 62,
-      size: 'medium',
+      size: 'Medium',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -341,7 +341,7 @@ adult: [
       gender: 'Male',
       age: 5,
       weight: 96,
-      size: 'large',
+      size: 'Large',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -355,7 +355,7 @@ adult: [
       gender: 'Female',
       age: 6,
       weight: 60,
-      size: 'medium',
+      size: 'Medium',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -369,7 +369,7 @@ adult: [
       gender: 'Female',
       age: 4,
       weight: 30,
-      size: 'small',
+      size: 'Small',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -383,7 +383,7 @@ adult: [
       gender: 'Male',
       age: 3,
       weight: 80,
-      size: 'large',
+      size: 'Large',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -397,7 +397,7 @@ adult: [
       gender: 'Male',
       age: 6,
       weight: 90,
-      size: 'large',
+      size: 'Large',
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
@@ -429,7 +429,7 @@ adult: [
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
-      rescue:'Little White Dog Rescue'
+      rescue: 'Little White Dog Rescue'
     },
     {
       name: 'Louis Lane',
@@ -499,7 +499,7 @@ adult: [
       house_trained: true,
       vaccinations: true,
       spayed_neutered: true,
-      rescue:'Little White Dog Rescue'
+      rescue: 'Little White Dog Rescue'
     },
     {
       name: 'Daryl',
@@ -575,7 +575,6 @@ adult: [
     }
   ]
 }
-
 const rescues = [
   { 
     name: 'Big Fluffy Dog Rescue',
@@ -627,5 +626,4 @@ const rescues = [
     Webiste: 'www.littlewhitedogrescue.com'
   }
 ]
-
 module.exports = { adoptableDogs, rescues }
