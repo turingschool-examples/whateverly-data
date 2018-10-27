@@ -3005,7 +3005,10 @@ const characters = [
         "wins":4437,
         "losses":3942
      },
-     "universe":"Metriod",
+     "universe":{  
+        "name":"Metriod",
+        "icon":"images/universe_icons/gray_icon_metroid.svg"
+     },
      "past_smash_games":[  
         "Smash Bros. Brawl"
      ],
