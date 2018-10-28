@@ -12,7 +12,8 @@ const characters = [
      },
      "universe":{  
         "name":"Bayonetta",
-        "icon":"images/universe_icons/gray_icon_bayonetta.svg"
+        "icon":"images/universe_icons/gray_icon_bayonetta.svg",
+        "logo":"images/universe_logos/bayonetta_logo.png"
      },
      "past_smash_games":[  
 
@@ -64,7 +65,8 @@ const characters = [
      },
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -119,7 +121,8 @@ const characters = [
      },
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "past_smash_games":[  
 
@@ -170,7 +173,8 @@ const characters = [
      },
      "universe":{  
         "name":"F-Zero",
-        "icon":"images/universe_icons/gray_icon_f_zero.svg"
+        "icon":"images/universe_icons/gray_icon_f_zero.svg",
+        "logo":"images/universe_logos/f_zero_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -224,8 +228,9 @@ const characters = [
         "losses":883
      },
      "universe":{  
-        "name":"Pok&#233mon",
-        "icon":"images/universe_icons/gray_icon_pokemon.svg"
+        "name":"Pokemon",
+        "icon":"images/universe_icons/gray_icon_pokemon.svg",
+        "logo":"images/universe_logos/pokemon_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -278,7 +283,8 @@ const characters = [
      },
      "universe":{  
         "name":"Final Fantasy",
-        "icon":"images/universe_icons/gray_icon_final_fantasy.svg"
+        "icon":"images/universe_icons/gray_icon_final_fantasy.svg",
+        "logo":"images/universe_logos/final_fantasy_logo.png"
      },
      "past_smash_games":[  
 
@@ -331,7 +337,8 @@ const characters = [
      },
      "universe":{  
         "name":"Fire Emblem",
-        "icon":"images/universe_icons/gray_icon_fire_emblem.svg"
+        "icon":"images/universe_icons/gray_icon_fire_emblem.svg",
+        "logo":"images/universe_logos/fire_emblem_logo.png"
      },
      "past_smash_games":[  
 
@@ -383,7 +390,8 @@ const characters = [
      },
      "universe":{  
         "name":"Kid Icarus",
-        "icon":"images/universe_icons/gray_icon_kid_icarus.svg"
+        "icon":"images/universe_icons/gray_icon_kid_icarus.svg",
+        "logo":"images/universe_logos/kid_icarus_logo.png"
      },
      "past_smash_games":[  
 
@@ -435,7 +443,8 @@ const characters = [
      },
      "universe":{  
         "name":"Donkey Kong",
-        "icon":"images/universe_icons/gray_icon_donkey_kong.svg"
+        "icon":"images/universe_icons/gray_icon_donkey_kong.svg",
+        "logo":"images/universe_logos/donkey_kong_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -488,7 +497,8 @@ const characters = [
      },
      "universe":{  
         "name":"Donkey Kong",
-        "icon":"images/universe_icons/gray_icon_donkey_kong.svg"
+        "icon":"images/universe_icons/gray_icon_donkey_kong.svg",
+        "logo":"images/universe_logos/donkey_kong_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -542,7 +552,8 @@ const characters = [
      },
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Melee"
@@ -595,7 +606,8 @@ const characters = [
      },
      "universe":{  
         "name":"Duck Hunt",
-        "icon":"images/universe_icons/gray_icon_duck_hunt.svg"
+        "icon":"images/universe_icons/gray_icon_duck_hunt.svg",
+        "logo":"images/universe_logos/duck_hunt_logo.png"
      },
      "past_smash_games":[  
 
@@ -646,7 +658,8 @@ const characters = [
      },
      "universe":{  
         "name":"Star Fox",
-        "icon":"images/universe_icons/gray_icon_star_fox.svg"
+        "icon":"images/universe_icons/gray_icon_star_fox.svg",
+        "logo":"images/universe_logos/star_fox_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -698,7 +711,8 @@ const characters = [
      },
      "universe":{  
         "name":"Star Fox",
-        "icon":"images/universe_icons/gray_icon_star_fox.svg"
+        "icon":"images/universe_icons/gray_icon_star_fox.svg",
+        "logo":"images/universe_logos/star_fox_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -751,7 +765,8 @@ const characters = [
      },
      "universe":{  
         "name":"The Legend of Zelda",
-        "icon":"images/universe_icons/gray_icon_zelda.svg"
+        "icon":"images/universe_icons/gray_icon_zelda.svg",
+        "logo":"images/universe_logos/zelda_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -804,8 +819,9 @@ const characters = [
         "losses":2090
      },
      "universe":{  
-        "name":"Pok&#233mon",
-        "icon":"images/universe_icons/gray_icon_pokemon.svg"
+        "name":"Pokemon",
+        "icon":"images/universe_icons/gray_icon_pokemon.svg",
+        "logo":"images/universe_logos/pokemon_logo.png"
      },
      "past_smash_games":[  
 
@@ -857,7 +873,8 @@ const characters = [
      },
      "universe":{  
         "name":"Fire Emblem",
-        "icon":"images/universe_icons/gray_icon_fire_emblem.svg"
+        "icon":"images/universe_icons/gray_icon_fire_emblem.svg",
+        "logo":"images/universe_logos/fire_emblem_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -908,8 +925,9 @@ const characters = [
         "losses":504
      },
      "universe":{  
-        "name":"Pok&#233mon",
-        "icon":"images/universe_icons/gray_icon_pokemon.svg"
+        "name":"Pokemon",
+        "icon":"images/universe_icons/gray_icon_pokemon.svg",
+        "logo":"images/universe_logos/pokemon_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -963,7 +981,8 @@ const characters = [
      },
      "universe":{  
         "name":"Kirby",
-        "icon":"images/universe_icons/gray_icon_kirby.svg"
+        "icon":"images/universe_icons/gray_icon_kirby.svg",
+        "logo":"images/universe_logos/kirby_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -1015,7 +1034,8 @@ const characters = [
      },
      "universe":{  
         "name":"Kirby",
-        "icon":"images/universe_icons/gray_icon_kirby.svg"
+        "icon":"images/universe_icons/gray_icon_kirby.svg",
+        "logo":"images/universe_logos/kirby_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -1070,7 +1090,8 @@ const characters = [
      },
      "universe":{  
         "name":"The Legend of Zelda",
-        "icon":"images/universe_icons/gray_icon_zelda.svg"
+        "icon":"images/universe_icons/gray_icon_zelda.svg",
+        "logo":"images/universe_logos/zelda_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -1125,7 +1146,8 @@ const characters = [
      },
      "universe":{  
         "name":"Punch Out!!",
-        "icon":"images/universe_icons/gray_icon_punchout.svg"
+        "icon":"images/universe_icons/gray_icon_punchout.svg",
+             "logo":"images/universe_logos/punch_out_logo.png"
      },
      "past_smash_games":[  
 
@@ -1175,8 +1197,9 @@ const characters = [
         "losses":1292
      },
      "universe":{  
-        "name":"Pok&#233mon",
-        "icon":"images/universe_icons/gray_icon_pokemon.svg"
+        "name":"Pokemon",
+        "icon":"images/universe_icons/gray_icon_pokemon.svg",
+        "logo":"images/universe_logos/pokemon_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -1228,7 +1251,8 @@ const characters = [
      },
      "universe":{  
         "name":"EarthBound",
-        "icon":"images/universe_icons/gray_icon_earthbound.svg"
+        "icon":"images/universe_icons/gray_icon_earthbound.svg",
+        "logo":"images/universe_logos/earthbound_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -1280,7 +1304,8 @@ const characters = [
      },
      "universe":{  
         "name":"Fire Emblem",
-        "icon":"images/universe_icons/gray_icon_fire_emblem.svg"
+        "icon":"images/universe_icons/gray_icon_fire_emblem.svg",
+        "logo":"images/universe_logos/fire_emblem_logo.png"
      },
      "past_smash_games":[  
 
@@ -1331,7 +1356,8 @@ const characters = [
      },
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -1384,7 +1410,8 @@ const characters = [
      },
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -1437,7 +1464,8 @@ const characters = [
      },
      "universe":{  
         "name":"Fire Emblem",
-        "icon":"images/universe_icons/gray_icon_fire_emblem.svg"
+        "icon":"images/universe_icons/gray_icon_fire_emblem.svg",
+        "logo":"images/universe_logos/fire_emblem_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -1490,7 +1518,8 @@ const characters = [
      },
      "universe":{  
         "name":"Mega Man",
-        "icon":"images/universe_icons/gray_icon_mega_man.svg"
+        "icon":"images/universe_icons/gray_icon_mega_man.svg",
+        "logo":"images/universe_logos/mega_man_logo.png"
      },
      "past_smash_games":[  
 
@@ -1542,7 +1571,8 @@ const characters = [
      },
      "universe":{  
         "name":"Kirby",
-        "icon":"images/universe_icons/gray_icon_kirby.svg"
+        "icon":"images/universe_icons/gray_icon_kirby.svg",
+        "logo":"images/universe_logos/kirby_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -1593,8 +1623,9 @@ const characters = [
         "losses":2912
      },
      "universe":{  
-        "name":"Pok&#233mon",
-        "icon":"images/universe_icons/gray_icon_pokemon.svg"
+        "name":"Pokemon",
+        "icon":"images/universe_icons/gray_icon_pokemon.svg",
+        "logo":"images/universe_logos/pokemon_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Melee"
@@ -1646,7 +1677,8 @@ const characters = [
      },
      "universe":{  
         "name":"Super Smash Bros.",
-        "icon":"images/universe_icons/gray_icon_smash_bros.svg"
+        "icon":"images/universe_icons/gray_icon_smash_bros.svg",
+        "logo":"images/universe_logos/mii_logo.png"
      },
      "past_smash_games":[  
 
@@ -1698,7 +1730,8 @@ const characters = [
      },
      "universe":{  
         "name":"Super Smash Bros.",
-        "icon":"images/universe_icons/gray_icon_smash_bros.svg"
+        "icon":"images/universe_icons/gray_icon_smash_bros.svg",
+        "logo":"images/universe_logos/mii_logo.png"
      },
      "past_smash_games":[  
 
@@ -1750,7 +1783,8 @@ const characters = [
      },
      "universe":{  
         "name":"Super Smash Bros.",
-        "icon":"images/universe_icons/gray_icon_smash_bros.svg"
+        "icon":"images/universe_icons/gray_icon_smash_bros.svg",
+        "logo":"images/universe_logos/mii_logo.png"
      },
      "past_smash_games":[  
 
@@ -1802,7 +1836,8 @@ const characters = [
      },
      "universe":{  
         "name":"Game & Watch",
-        "icon":"images/universe_icons/gray_icon_game_and_watch.svg"
+        "icon":"images/universe_icons/gray_icon_game_and_watch.svg",
+        "logo":"images/universe_logos/game_and_watch_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -1855,7 +1890,8 @@ const characters = [
      },
      "universe":{  
         "name":"EarthBound",
-        "icon":"images/universe_icons/gray_icon_earthbound.svg"
+        "icon":"images/universe_icons/gray_icon_earthbound.svg",
+        "logo":"images/universe_logos/earthbound_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -1909,7 +1945,8 @@ const characters = [
      },
      "universe":{  
         "name":"Pikmin",
-        "icon":"images/universe_icons/gray_icon_pikmin.svg"
+        "icon":"images/universe_icons/gray_icon_pikmin.svg",
+        "logo":"images/universe_logos/pikmin_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -1961,7 +1998,8 @@ const characters = [
      },
      "universe":{  
         "name":"Pac-Man",
-        "icon":"images/universe_icons/gray_icon_pacman.svg"
+        "icon":"images/universe_icons/gray_icon_pacman.svg",
+        "logo":"images/universe_logos/pac_man_logo.png"
      },
      "past_smash_games":[  
 
@@ -2012,7 +2050,8 @@ const characters = [
      },
      "universe":{  
         "name":"Kid Icarus",
-        "icon":"images/universe_icons/gray_icon_kid_icarus.svg"
+        "icon":"images/universe_icons/gray_icon_kid_icarus.svg",
+        "logo":"images/universe_logos/kid_icarus_logo.png"
      },
      "past_smash_games":[  
 
@@ -2063,7 +2102,8 @@ const characters = [
      },
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -2115,8 +2155,9 @@ const characters = [
         "losses":2113
      },
      "universe":{  
-        "name":"Pok&#233mon",
-        "icon":"images/universe_icons/gray_icon_pokemon.svg"
+        "name":"Pokemon",
+        "icon":"images/universe_icons/gray_icon_pokemon.svg",
+        "logo":"images/universe_logos/pokemon_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -2170,7 +2211,8 @@ const characters = [
      },
      "universe":{  
         "name":"Kid Icarus",
-        "icon":"images/universe_icons/gray_icon_kid_icarus.svg"
+        "icon":"images/universe_icons/gray_icon_kid_icarus.svg",
+        "logo":"images/universe_logos/kid_icarus_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -2221,7 +2263,8 @@ const characters = [
      },
      "universe":{  
         "name":"R.O.B.",
-        "icon":"images/universe_icons/gray_icon_rob.svg"
+        "icon":"images/universe_icons/gray_icon_rob.svg",
+        "logo":"images/universe_logos/rob_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -2273,7 +2316,8 @@ const characters = [
      },
      "universe":{  
         "name":"Fire Emblem",
-        "icon":"images/universe_icons/gray_icon_fire_emblem.svg"
+        "icon":"images/universe_icons/gray_icon_fire_emblem.svg",
+        "logo":"images/universe_logos/fire_emblem_logo.png"
      },
      "past_smash_games":[  
 
@@ -2325,7 +2369,8 @@ const characters = [
      },
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "past_smash_games":[  
 
@@ -2377,7 +2422,8 @@ const characters = [
      },
      "universe":{  
         "name":"Fire Emblem",
-        "icon":"images/universe_icons/gray_icon_fire_emblem.svg"
+        "icon":"images/universe_icons/gray_icon_fire_emblem.svg",
+        "logo":"images/universe_logos/fire_emblem_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Melee"
@@ -2429,7 +2475,8 @@ const characters = [
      },
      "universe":{  
         "name":"Street Fighter",
-        "icon":"images/universe_icons/gray_icon_street_fighter.svg"
+        "icon":"images/universe_icons/gray_icon_street_fighter.svg",
+        "logo":"images/universe_logos/street_fighter_logo.png"
      },
      "past_smash_games":[  
 
@@ -2482,7 +2529,8 @@ const characters = [
      },
      "universe":{  
         "name":"Metroid",
-        "icon":"images/universe_icons/gray_icon_metroid.svg"
+        "icon":"images/universe_icons/gray_icon_metroid.svg",
+        "logo":"images/universe_logos/metroid_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -2535,7 +2583,8 @@ const characters = [
      },
      "universe":{  
         "name":"The Legend of Zelda",
-        "icon":"images/universe_icons/gray_icon_zelda.svg"
+        "icon":"images/universe_icons/gray_icon_zelda.svg",
+        "logo":"images/universe_logos/zelda_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -2590,7 +2639,8 @@ const characters = [
      },
      "universe":{  
         "name":"Xenoblade",
-        "icon":"images/universe_icons/gray_icon_xenoblade.svg"
+        "icon":"images/universe_icons/gray_icon_xenoblade.svg",
+        "logo":"images/universe_logos/xenoblade_logo.png"
      },
      "past_smash_games":[  
 
@@ -2642,7 +2692,8 @@ const characters = [
      },
      "universe":{  
         "name":"Sonic",
-        "icon":"images/universe_icons/gray_icon_sonic.svg"
+        "icon":"images/universe_icons/gray_icon_sonic.svg",
+        "logo":"images/universe_logos/sonic_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -2693,7 +2744,8 @@ const characters = [
      },
      "universe":{  
         "name":"The Legend of Zelda",
-        "icon":"images/universe_icons/gray_icon_zelda.svg"
+        "icon":"images/universe_icons/gray_icon_zelda.svg",
+        "logo":"images/universe_logos/zelda_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -2745,7 +2797,8 @@ const characters = [
      },
      "universe":{  
         "name":"Animal Crossing",
-        "icon":"images/universe_icons/gray_icon_animal_crossing.svg"
+        "icon":"images/universe_icons/gray_icon_animal_crossing.svg",
+        "logo":"images/universe_logos/animal_crossing_logo.png"
      },
      "past_smash_games":[  
 
@@ -2797,7 +2850,8 @@ const characters = [
      },
      "universe":{  
         "name":"Wario",
-        "icon":"images/universe_icons/gray_icon_wario.svg"
+        "icon":"images/universe_icons/gray_icon_wario.svg",
+        "logo":"images/universe_logos/wario_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -2848,7 +2902,8 @@ const characters = [
      },
      "universe":{  
         "name":"Wii Fit",
-        "icon":"images/universe_icons/gray_icon_wii_fit.svg"
+        "icon":"images/universe_icons/gray_icon_wii_fit.svg",
+        "logo":"images/universe_logos/wii_logo.png"
      },
      "past_smash_games":[  
 
@@ -2900,7 +2955,8 @@ const characters = [
      },
      "universe":{  
         "name":"Yoshi",
-        "icon":"images/universe_icons/gray_icon_yoshi.svg"
+        "icon":"images/universe_icons/gray_icon_yoshi.svg",
+        "logo":"images/universe_logos/yoshi_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -2954,7 +3010,8 @@ const characters = [
      },
      "universe":{  
         "name":"The Legend of Zelda",
-        "icon":"images/universe_icons/gray_icon_zelda.svg"
+        "icon":"images/universe_icons/gray_icon_zelda.svg",
+        "logo":"images/universe_logos/zelda_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl",
@@ -3007,7 +3064,8 @@ const characters = [
      },
      "universe":{  
         "name":"Metriod",
-        "icon":"images/universe_icons/gray_icon_metroid.svg"
+        "icon":"images/universe_icons/gray_icon_metroid.svg",
+        "logo":"images/universe_logos/metroid_logo.png"
      },
      "past_smash_games":[  
         "Smash Bros. Brawl"
@@ -3055,7 +3113,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3070,7 +3129,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Donkey Kong",
-        "icon":"images/universe_icons/gray_icon_donkey_kong.svg"
+        "icon":"images/universe_icons/gray_icon_donkey_kong.svg",
+        "logo":"images/universe_logos/donkey_kong_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3085,7 +3145,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Fire Emblem",
-        "icon":"images/universe_icons/gray_icon_fire_emblem.svg"
+        "icon":"images/universe_icons/gray_icon_fire_emblem.svg",
+        "logo":"images/universe_logos/fire_emblem_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3115,7 +3176,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Super Smash Bros.",
-        "icon":"images/universe_icons/gray_icon_smash_bros.svg"
+        "icon":"images/universe_icons/gray_icon_smash_bros.svg",
+        "logo":"images/universe_logos/mii_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":true,
@@ -3130,7 +3192,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Super Smash Bros.",
-        "icon":"images/universe_icons/gray_icon_smash_bros.svg"
+        "icon":"images/universe_icons/gray_icon_smash_bros.svg",
+        "logo":"images/universe_logos/mii_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3145,7 +3208,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Punch Out!!",
-        "icon":"images/universe_icons/gray_icon_punchout.svg"
+        "icon":"images/universe_icons/gray_icon_punchout.svg",
+             "logo":"images/universe_logos/punch_out_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":true,
@@ -3160,7 +3224,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"The Legend of Zelda",
-        "icon":"images/universe_icons/gray_icon_zelda.svg"
+        "icon":"images/universe_icons/gray_icon_zelda.svg",
+        "logo":"images/universe_logos/zelda_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3175,7 +3240,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Metroid",
-        "icon":"images/universe_icons/gray_icon_metroid.svg"
+        "icon":"images/universe_icons/gray_icon_metroid.svg",
+        "logo":"images/universe_logos/metroid_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3191,7 +3257,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Fire Emblem",
-        "icon":"images/universe_icons/gray_icon_fire_emblem.svg"
+        "icon":"images/universe_icons/gray_icon_fire_emblem.svg",
+        "logo":"images/universe_logos/fire_emblem_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3206,7 +3273,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Fire Emblem",
-        "icon":"images/universe_icons/gray_icon_fire_emblem.svg"
+        "icon":"images/universe_icons/gray_icon_fire_emblem.svg",
+        "logo":"images/universe_logos/fire_emblem_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3221,7 +3289,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Star Fox",
-        "icon":"images/universe_icons/gray_icon_star_fox.svg"
+        "icon":"images/universe_icons/gray_icon_star_fox.svg",
+        "logo":"images/universe_logos/star_fox_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3237,7 +3306,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3252,7 +3322,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Pikmin",
-        "icon":"images/universe_icons/gray_icon_pikmin.svg"
+        "icon":"images/universe_icons/gray_icon_pikmin.svg",
+        "logo":"images/universe_logos/pikmin_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3267,7 +3338,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Kirby",
-        "icon":"images/universe_icons/gray_icon_kirby.svg"
+        "icon":"images/universe_icons/gray_icon_kirby.svg",
+        "logo":"images/universe_logos/kirby_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3282,7 +3354,8 @@ const stages = [
      "dlc":true,
      "universe":{  
         "name":"Kirby",
-        "icon":"images/universe_icons/gray_icon_kirby.svg"
+        "icon":"images/universe_icons/gray_icon_kirby.svg",
+        "logo":"images/universe_logos/kirby_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":true,
@@ -3298,7 +3371,8 @@ const stages = [
      "dlc":true,
      "universe":{  
         "name":"Duck Hunt",
-        "icon":"images/universe_icons/gray_icon_duck_hunt.svg"
+        "icon":"images/universe_icons/gray_icon_duck_hunt.svg",
+        "logo":"images/universe_logos/duck_hunt_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":true,
@@ -3313,7 +3387,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Super Smash Bros.",
-        "icon":"images/universe_icons/gray_icon_smash_bros.svg"
+        "icon":"images/universe_icons/gray_icon_smash_bros.svg",
+        "logo":"images/universe_logos/mii_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":true,
@@ -3343,7 +3418,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Game & Watch",
-        "icon":"images/universe_icons/gray_icon_game_and_watch.svg"
+        "icon":"images/universe_icons/gray_icon_game_and_watch.svg",
+        "logo":"images/universe_logos/game_and_watch_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3358,7 +3434,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Game & Watch",
-        "icon":"images/universe_icons/gray_icon_game_and_watch.svg"
+        "icon":"images/universe_icons/gray_icon_game_and_watch.svg",
+        "logo":"images/universe_logos/game_and_watch_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3373,7 +3450,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Wario",
-        "icon":"images/universe_icons/gray_icon_wario.svg"
+        "icon":"images/universe_icons/gray_icon_wario.svg",
+        "logo":"images/universe_logos/wario_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3388,7 +3466,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Pikmin",
-        "icon":"images/universe_icons/gray_icon_pikmin.svg"
+        "icon":"images/universe_icons/gray_icon_pikmin.svg",
+        "logo":"images/universe_logos/pikmin_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3403,7 +3482,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Xenoblade",
-        "icon":"images/universe_icons/gray_icon_xenoblade.svg"
+        "icon":"images/universe_icons/gray_icon_xenoblade.svg",
+        "logo":"images/universe_logos/xenoblade_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":true,
@@ -3418,7 +3498,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"The Legend of Zelda",
-        "icon":"images/universe_icons/gray_icon_zelda.svg"
+        "icon":"images/universe_icons/gray_icon_zelda.svg",
+        "logo":"images/universe_logos/zelda_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3433,7 +3514,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3448,7 +3530,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Sonic",
-        "icon":"images/universe_icons/gray_icon_sonic.svg"
+        "icon":"images/universe_icons/gray_icon_sonic.svg",
+        "logo":"images/universe_logos/sonic_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3463,7 +3546,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Kirby",
-        "icon":"images/universe_icons/gray_icon_kirby.svg"
+        "icon":"images/universe_icons/gray_icon_kirby.svg",
+        "logo":"images/universe_logos/kirby_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3478,7 +3562,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Kirby",
-        "icon":"images/universe_icons/gray_icon_kirby.svg"
+        "icon":"images/universe_icons/gray_icon_kirby.svg",
+        "logo":"images/universe_logos/kirby_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3493,7 +3578,8 @@ const stages = [
      "dlc":true,
      "universe":{  
         "name":"The Legend of Zelda",
-        "icon":"images/universe_icons/gray_icon_zelda.svg"
+        "icon":"images/universe_icons/gray_icon_zelda.svg",
+        "logo":"images/universe_logos/zelda_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":true,
@@ -3508,7 +3594,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Donkey Kong",
-        "icon":"images/universe_icons/gray_icon_donkey_kong.svg"
+        "icon":"images/universe_icons/gray_icon_donkey_kong.svg",
+        "logo":"images/universe_logos/donkey_kong_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3523,7 +3610,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Donkey Kong",
-        "icon":"images/universe_icons/gray_icon_donkey_kong.svg"
+        "icon":"images/universe_icons/gray_icon_donkey_kong.svg",
+        "logo":"images/universe_logos/donkey_kong_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3538,8 +3626,9 @@ const stages = [
      "name":"Kalos Pokemon League",
      "dlc":false,
      "universe":{  
-        "name":"Pok&#233mon",
-        "icon":"images/universe_icons/gray_icon_pokemon.svg"
+        "name":"Pokemon",
+        "icon":"images/universe_icons/gray_icon_pokemon.svg",
+        "logo":"images/universe_logos/pokemon_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3554,7 +3643,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Donkey Kong",
-        "icon":"images/universe_icons/gray_icon_donkey_kong.svg"
+        "icon":"images/universe_icons/gray_icon_donkey_kong.svg",
+        "logo":"images/universe_logos/donkey_kong_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3585,7 +3675,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3600,7 +3691,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Star Fox",
-        "icon":"images/universe_icons/gray_icon_star_fox.svg"
+        "icon":"images/universe_icons/gray_icon_star_fox.svg",
+        "logo":"images/universe_logos/star_fox_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3615,7 +3707,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"EarthBound",
-        "icon":"images/universe_icons/gray_icon_earthbound.svg"
+        "icon":"images/universe_icons/gray_icon_earthbound.svg",
+        "logo":"images/universe_logos/earthbound_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3630,7 +3723,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3645,7 +3739,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3660,7 +3755,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3705,7 +3801,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3720,7 +3817,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3750,7 +3848,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Metroid",
-        "icon":"images/universe_icons/gray_icon_metroid.svg"
+        "icon":"images/universe_icons/gray_icon_metroid.svg",
+        "logo":"images/universe_logos/metroid_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3765,7 +3864,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"EarthBound",
-        "icon":"images/universe_icons/gray_icon_earthbound.svg"
+        "icon":"images/universe_icons/gray_icon_earthbound.svg",
+        "logo":"images/universe_logos/earthbound_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3781,7 +3881,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Star Fox",
-        "icon":"images/universe_icons/gray_icon_star_fox.svg"
+        "icon":"images/universe_icons/gray_icon_star_fox.svg",
+        "logo":"images/universe_logos/star_fox_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3796,7 +3897,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Pac-Man",
-        "icon":"images/universe_icons/gray_icon_pacman.svg"
+        "icon":"images/universe_icons/gray_icon_pacman.svg",
+        "logo":"images/universe_logos/pac_man_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3811,7 +3913,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Pac-Man",
-        "icon":"images/universe_icons/gray_icon_pacman.svg"
+        "icon":"images/universe_icons/gray_icon_pacman.svg",
+        "logo":"images/universe_logos/pac_man_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3826,7 +3929,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Kid Icarus",
-        "icon":"images/universe_icons/gray_icon_kid_icarus.svg"
+        "icon":"images/universe_icons/gray_icon_kid_icarus.svg",
+        "logo":"images/universe_logos/kid_icarus_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3841,7 +3945,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3856,7 +3961,8 @@ const stages = [
      "dlc":true,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":true,
@@ -3901,7 +4007,8 @@ const stages = [
      "dlc":true,
      "universe":{  
         "name":"The Legend of Zelda",
-        "icon":"images/universe_icons/gray_icon_zelda.svg"
+        "icon":"images/universe_icons/gray_icon_zelda.svg",
+        "logo":"images/universe_logos/zelda_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3915,8 +4022,9 @@ const stages = [
      "name":"Pokemon Stadium 2",
      "dlc":false,
      "universe":{  
-        "name":"Pok&#233mon",
-        "icon":"images/universe_icons/gray_icon_pokemon.svg"
+        "name":"Pokemon",
+        "icon":"images/universe_icons/gray_icon_pokemon.svg",
+        "logo":"images/universe_logos/pokemon_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3945,8 +4053,9 @@ const stages = [
      "name":"Prism Tower",
      "dlc":false,
      "universe":{  
-        "name":"Pok&#233mon",
-        "icon":"images/universe_icons/gray_icon_pokemon.svg"
+        "name":"Pokemon",
+        "icon":"images/universe_icons/gray_icon_pokemon.svg",
+        "logo":"images/universe_logos/pokemon_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3961,7 +4070,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Metroid",
-        "icon":"images/universe_icons/gray_icon_metroid.svg"
+        "icon":"images/universe_icons/gray_icon_metroid.svg",
+        "logo":"images/universe_logos/metroid_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -3976,7 +4086,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -3991,7 +4102,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Kid Icarus",
-        "icon":"images/universe_icons/gray_icon_kid_icarus.svg"
+        "icon":"images/universe_icons/gray_icon_kid_icarus.svg",
+        "logo":"images/universe_logos/kid_icarus_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -4006,7 +4118,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"The Legend of Zelda",
-        "icon":"images/universe_icons/gray_icon_zelda.svg"
+        "icon":"images/universe_icons/gray_icon_zelda.svg",
+        "logo":"images/universe_logos/zelda_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -4021,7 +4134,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Kid Icarus",
-        "icon":"images/universe_icons/gray_icon_kid_icarus.svg"
+        "icon":"images/universe_icons/gray_icon_kid_icarus.svg",
+        "logo":"images/universe_logos/kid_icarus_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -4036,7 +4150,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Animal Crossing",
-        "icon":"images/universe_icons/gray_icon_animal_crossing.svg"
+        "icon":"images/universe_icons/gray_icon_animal_crossing.svg",
+        "logo":"images/universe_logos/animal_crossing_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -4051,7 +4166,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"The Legend of Zelda",
-        "icon":"images/universe_icons/gray_icon_zelda.svg"
+        "icon":"images/universe_icons/gray_icon_zelda.svg",
+        "logo":"images/universe_logos/zelda_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -4066,7 +4182,8 @@ const stages = [
      "dlc":true,
      "universe":{  
         "name":"Mario",
-        "icon":"images/universe_icons/gray_icon_mario.svg"
+        "icon":"images/universe_icons/gray_icon_mario.svg",
+        "logo":"images/universe_logos/mario_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":true,
@@ -4081,7 +4198,8 @@ const stages = [
      "dlc":true,
      "universe":{  
         "name":"Street Fighter",
-        "icon":"images/universe_icons/gray_icon_street_fighter.svg"
+        "icon":"images/universe_icons/gray_icon_street_fighter.svg",
+        "logo":"images/universe_logos/street_fighter_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":true,
@@ -4096,7 +4214,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"The Legend of Zelda",
-        "icon":"images/universe_icons/gray_icon_zelda.svg"
+        "icon":"images/universe_icons/gray_icon_zelda.svg",
+        "logo":"images/universe_logos/zelda_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -4127,7 +4246,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Animal Crossing",
-        "icon":"images/universe_icons/gray_icon_animal_crossing.svg"
+        "icon":"images/universe_icons/gray_icon_animal_crossing.svg",
+        "logo":"images/universe_logos/animal_crossing_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -4142,7 +4262,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Animal Crossing",
-        "icon":"images/universe_icons/gray_icon_animal_crossing.svg"
+        "icon":"images/universe_icons/gray_icon_animal_crossing.svg",
+        "logo":"images/universe_logos/animal_crossing_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -4157,7 +4278,8 @@ const stages = [
      "dlc":true,
      "universe":{  
         "name":"Bayonetta",
-        "icon":"images/universe_icons/gray_icon_bayonetta.svg"
+        "icon":"images/universe_icons/gray_icon_bayonetta.svg",
+        "logo":"images/universe_logos/bayonetta_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":true,
@@ -4171,8 +4293,9 @@ const stages = [
      "name":"Unova Pokemon League",
      "dlc":false,
      "universe":{  
-        "name":"Pok&#233mon",
-        "icon":"images/universe_icons/gray_icon_pokemon.svg"
+        "name":"Pokemon",
+        "icon":"images/universe_icons/gray_icon_pokemon.svg",
+        "logo":"images/universe_logos/pokemon_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -4187,7 +4310,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Wario",
-        "icon":"images/universe_icons/gray_icon_wario.svg"
+        "icon":"images/universe_icons/gray_icon_wario.svg",
+        "logo":"images/universe_logos/wario_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
@@ -4202,7 +4326,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Wii Fit",
-        "icon":"images/universe_icons/gray_icon_wii_fit.svg"
+        "icon":"images/universe_icons/gray_icon_wii_fit.svg",
+        "logo":"images/universe_logos/wii_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -4217,7 +4342,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Mega Man",
-        "icon":"images/universe_icons/gray_icon_mega_man.svg"
+        "icon":"images/universe_icons/gray_icon_mega_man.svg",
+        "logo":"images/universe_logos/mega_man_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":true,
@@ -4232,7 +4358,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Sonic",
-        "icon":"images/universe_icons/gray_icon_sonic.svg"
+        "icon":"images/universe_icons/gray_icon_sonic.svg",
+        "logo":"images/universe_logos/sonic_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -4247,7 +4374,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Yoshi",
-        "icon":"images/universe_icons/gray_icon_yoshi.svg"
+        "icon":"images/universe_icons/gray_icon_yoshi.svg",
+        "logo":"images/universe_logos/yoshi_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -4292,7 +4420,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Yoshi",
-        "icon":"images/universe_icons/gray_icon_yoshi.svg"
+        "icon":"images/universe_icons/gray_icon_yoshi.svg",
+        "logo":"images/universe_logos/yoshi_logo.png"
      },
      "wii_u":true,
      "nintendo_3ds":false,
@@ -4308,7 +4437,8 @@ const stages = [
      "dlc":false,
      "universe":{  
         "name":"Yoshi",
-        "icon":"images/universe_icons/gray_icon_yoshi.svg"
+        "icon":"images/universe_icons/gray_icon_yoshi.svg",
+        "logo":"images/universe_logos/yoshi_logo.png"
      },
      "wii_u":false,
      "nintendo_3ds":true,
