@@ -3063,7 +3063,7 @@ const characters = [
         "losses":3942
      },
      "universe":{  
-        "name":"Metriod",
+        "name":"Metroid",
         "icon":"images/universe_icons/gray_icon_metroid.svg",
         "logo":"images/universe_logos/metroid_logo.png"
      },
