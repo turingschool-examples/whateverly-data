@@ -45,7 +45,7 @@ const characters = [
         "Slow run",
         "Everyone will hate you for playing her"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Bayonetta_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Bayonetta_(SSB4)",
      "images":{  
         "large":"images/characters/bayonetta.png",
         "icon":"images/character_icons/bayonetta_icon.png",
@@ -101,7 +101,7 @@ const characters = [
         "Size makes big target for projectiles",
         "Somewhat poor recovery"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Bowser_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Bowser_(SSB4)",
      "images":{  
         "large":"images/characters/bowser.png",
         "icon":"images/character_icons/bowser_icon.png",
@@ -153,7 +153,7 @@ const characters = [
         "Smashes require hard reads",
         "Slow moves"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Bowser_Jr._(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Bowser_Jr._(SSB4)",
      "images":{  
         "large":"images/characters/bowser_jr.png",
         "icon":"images/character_icons/bowser_jr_icon.png",
@@ -209,7 +209,7 @@ const characters = [
         "Standing grab has little range",
         "Not great when being zoned out by projectiles"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Captain_Falcon_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Captain_Falcon_(SSB4)",
      "images":{  
         "large":"images/characters/captain_falcon.png",
         "icon":"images/character_icons/captain_falcon_icon.png",
@@ -263,7 +263,7 @@ const characters = [
         "Heavy character",
         "Rock smash beaten by swords"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Charizard_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Charizard_(SSB4)",
      "images":{  
         "large":"images/characters/charizard.png",
         "icon":"images/character_icons/charizard_icon.png",
@@ -317,7 +317,7 @@ const characters = [
         "Subpar recovery",
         "Kill moves can be difficult to land"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Cloud_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Cloud_(SSB4)",
      "images":{  
         "large":"images/characters/cloud.png",
         "icon":"images/character_icons/cloud_icon.png",
@@ -370,7 +370,7 @@ const characters = [
         "Doesn't have great landing options",
         "Approach options are easily punished"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Corrin_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Corrin_(SSB4)",
      "images":{  
         "large":"images/characters/corrin.png",
         "icon":"images/character_icons/corrin_icon.png",
@@ -423,7 +423,7 @@ const characters = [
         "Laggy aerials",
         "Arrows have less range than regular Pit"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Dark_Pit_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Dark_Pit_(SSB4)",
      "images":{  
         "large":"images/characters/dark_pit.png",
         "icon":"images/character_icons/dark_pit_icon.png",
@@ -477,7 +477,7 @@ const characters = [
         "Bananas can be used aginst him",
         "Whiffed side special has a lot of landing lag"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Diddy_Kong_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Diddy_Kong_(SSB4)",
      "images":{  
         "large":"images/characters/diddy_kong.png",
         "icon":"images/character_icons/diddy_kong_icon.png",
@@ -532,7 +532,7 @@ const characters = [
         "Few approach options",
         "Has difficulty with zoners"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Donkey_Kong_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Donkey_Kong_(SSB4)",
      "images":{  
         "large":"images/characters/donkey_kong.png",
         "icon":"images/character_icons/donkey_kong_icon.png",
@@ -586,7 +586,7 @@ const characters = [
         "Poor range",
         "Struggles to approach"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Dr._Mario_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Dr._Mario_(SSB4)",
      "images":{  
         "large":"images/characters/dr_mario.png",
         "icon":"images/character_icons/dr_mario_icon.png",
@@ -638,7 +638,7 @@ const characters = [
         "Has a hard time killing",
         "Difficult to setup traps when being rushed"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Duck_Hunt_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Duck_Hunt_(SSB4)",
      "images":{  
         "large":"images/characters/duck_hunt.png",
         "icon":"images/character_icons/dunk_hunt_icon.png",
@@ -691,7 +691,7 @@ const characters = [
         "Somewhat poor recovery",
         "Can be hard to get the KO"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Falco_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Falco_(SSB4)",
      "images":{  
         "large":"images/characters/falco.png",
         "icon":"images/character_icons/falco_icon.png",
@@ -745,7 +745,7 @@ const characters = [
         "Somewhat predictable recovery",
         "Can be hard to get the KO"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Fox_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Fox_(SSB4)",
      "images":{  
         "large":"images/characters/fox.png",
         "icon":"images/character_icons/fox_icon.png",
@@ -800,7 +800,7 @@ const characters = [
         "Easily rushed down",
         "Slow gimpable recovery"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Ganondorf_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Ganondorf_(SSB4)",
      "images":{  
         "large":"images/characters/ganondorf.png",
         "icon":"images/character_icons/ganondorf_icon.png",
@@ -853,7 +853,7 @@ const characters = [
         "Mediocre options for approaching",
         "Terrible standing grab"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Greninja_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Greninja_(SSB4)",
      "images":{  
         "large":"images/characters/greninja.png",
         "icon":"images/character_icons/greninja_icon.png",
@@ -906,7 +906,7 @@ const characters = [
         "Recovery is linear and predictable",
         "Susceptible to combos"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Ike_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Ike_(SSB4)",
      "images":{  
         "large":"images/characters/ike.png",
         "icon":"images/character_icons/ike_icon.png",
@@ -961,7 +961,7 @@ const characters = [
         "No up B recovery",
         "Easy to edge guard"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Jigglypuff_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Jigglypuff_(SSB4)",
      "images":{  
         "large":"images/characters/jigglypuff.png",
         "icon":"images/character_icons/jiggly_puff_icon.png",
@@ -1014,7 +1014,7 @@ const characters = [
         "Difficulty approaching",
         "Can be rushed down by faster characters"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/King_Dedede_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/King_Dedede_(SSB4)",
      "images":{  
         "large":"images/characters/king_dedede.png",
         "icon":"images/character_icons/king_dedede_icon.png",
@@ -1070,7 +1070,7 @@ const characters = [
         "Poor mobility on ground and in air",
         "Below average KO power"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Kirby_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Kirby_(SSB4)",
      "images":{  
         "large":"images/characters/kirby.png",
         "icon":"images/character_icons/kirby_icon.png",
@@ -1126,7 +1126,7 @@ const characters = [
         "Can be combo'd easily",
         "Has many bad matchups"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Link_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Link_(SSB4)",
      "images":{  
         "large":"images/characters/link.png",
         "icon":"images/character_icons/link_icon.png",
@@ -1178,7 +1178,7 @@ const characters = [
         "Poor recovery",
         "Many very difficult matchups"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Little_Mac_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Little_Mac_(SSB4)",
      "images":{  
         "large":"images/characters/little_mac.png",
         "icon":"images/character_icons/little_mac_icon.png",
@@ -1231,7 +1231,7 @@ const characters = [
         "Slow smash attacks",
         "Doesn't have great combos"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Lucario_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Lucario_(SSB4)",
      "images":{  
         "large":"images/characters/lucario.png",
         "icon":"images/character_icons/lucario_icon.png",
@@ -1284,7 +1284,7 @@ const characters = [
         "Very reliant on zoning tools",
         "Difficult to use recovery"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Lucas_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Lucas_(SSB4)",
      "images":{  
         "large":"images/characters/lucas.png",
         "icon":"images/character_icons/lucas_icon.png",
@@ -1336,7 +1336,7 @@ const characters = [
         "Lighter than Marth",
         "Vulnerable to edge gaurding"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Lucina_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Lucina_(SSB4)",
      "images":{  
         "large":"images/characters/lucina.png",
         "icon":"images/character_icons/lucina_icon.png",
@@ -1390,7 +1390,7 @@ const characters = [
         "Second slowest aerial mobility",
         "predictable recovery"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Luigi_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Luigi_(SSB4)",
      "images":{  
         "large":"images/characters/luigi.png",
         "icon":"images/character_icons/luigi_icon.png",
@@ -1444,7 +1444,7 @@ const characters = [
         "Limited range",
         "Limited recovery"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Mario_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Mario_(SSB4)",
      "images":{  
         "large":"images/characters/mario.png",
         "icon":"images/character_icons/mario_icon.png",
@@ -1498,7 +1498,7 @@ const characters = [
         "Poor horizontal recovery",
         "Predictable recovery"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Marth_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Marth_(SSB4)",
      "images":{  
         "large":"images/characters/marth.png",
         "icon":"images/character_icons/marth_icon.png",
@@ -1551,7 +1551,7 @@ const characters = [
         "Almost no combo ability",
         "Very reliant on projectiles"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Mega_Man_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Mega_Man_(SSB4)",
      "images":{  
         "large":"images/characters/mega_man.png",
         "icon":"images/character_icons/mega_man_icon.png",
@@ -1604,7 +1604,7 @@ const characters = [
         "Lightweight",
         "Poor range"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Meta_Knight_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Meta_Knight_(SSB4)",
      "images":{  
         "large":"images/characters/meta_knight.png",
         "icon":"images/character_icons/meta_knight_icon.png",
@@ -1657,7 +1657,7 @@ const characters = [
         "Big Target",
         "Floaty in the air"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Mewtwo_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Mewtwo_(SSB4)",
      "images":{  
         "large":"images/characters/mewtwo.png",
         "icon":"images/character_icons/mewtwo_icon.png",
@@ -1710,7 +1710,7 @@ const characters = [
         "Has almost no range",
         "Lacks strong kill moves"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Mii_Brawler_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Mii_Brawler_(SSB4)",
      "images":{  
         "large":"images/characters/mii_brawler.png",
         "icon":"images/character_icons/smash_icon.png",
@@ -1763,7 +1763,7 @@ const characters = [
         "Punishable recovery",
         "Lacks a reliable combo breaker"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Mii_Gunner_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Mii_Gunner_(SSB4)",
      "images":{  
         "large":"images/characters/mii_gunner.png",
         "icon":"images/character_icons/smash_icon.png",
@@ -1816,7 +1816,7 @@ const characters = [
         "Low range for a sword weilder",
         "Lack of kill throws"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Mii_Fighter_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Mii_Fighter_(SSB4)",
      "images":{  
         "large":"images/characters/mii_sword_fighter.png",
         "icon":"images/character_icons/smash_icon.png",
@@ -1870,7 +1870,7 @@ const characters = [
         "Unreliable projectile",
         "Somewhat poor ground game"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Mr._Game_%26_Watch_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Mr._Game_%26_Watch_(SSB4)",
      "images":{  
         "large":"images/characters/mr_game_and_watch.png",
         "icon":"images/character_icons/mr_game_and_watch_icon.png",
@@ -1925,7 +1925,7 @@ const characters = [
         "Average mobility",
         "Fairly slow and easiliy overwhelmed by fast characters"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Ness_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Ness_(SSB4)",
      "images":{  
         "large":"images/characters/ness.png",
         "icon":"images/character_icons/ness_icon.png",
@@ -1978,7 +1978,7 @@ const characters = [
         "Fast character give him trouble",
         "Pikmin can desync from the line"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Olimar_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Olimar_(SSB4)",
      "images":{  
         "large":"images/characters/olimar.png",
         "icon":"images/character_icons/olimar_icon.png",
@@ -2030,7 +2030,7 @@ const characters = [
         "Mediocre mobility",
         "Average range"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Pac-Man_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Pac-Man_(SSB4)",
      "images":{  
         "large":"images/characters/pac_man.png",
         "icon":"images/character_icons/pac_man_icon.png",
@@ -2082,7 +2082,7 @@ const characters = [
         "Tall and easier to hit than most characters",
         "Slow kill moves"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Palutena_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Palutena_(SSB4)",
      "images":{  
         "large":"images/characters/palutena.png",
         "icon":"images/character_icons/palutena__icon.png",
@@ -2136,7 +2136,7 @@ const characters = [
         "Very floaty",
         "Counter is slow"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Peach_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Peach_(SSB4)",
      "images":{  
         "large":"images/characters/peach.png",
         "icon":"images/character_icons/peach_icon.png",
@@ -3044,7 +3044,7 @@ const characters = [
         "Tall hurtbox",
         "Laggy moves"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Zelda_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Zelda_(SSB4)",
      "images":{  
         "large":"images/characters/zelda.png",
         "icon":"images/character_icons/zelda_icon.png",
@@ -3098,7 +3098,7 @@ const characters = [
         "Some character can crouch under her moves",
         "Slow grab"
      ],
-     "smash_wiki":"https://ssbworld.com/characters/Zero_Suit_Samus_(SSB4)",
+     "smash_wiki":"https://ssbwiki.com/characters/Zero_Suit_Samus_(SSB4)",
      "images":{  
         "large":"images/characters/zero_suit_samus.png",
         "icon":"images/character_icons/zero_suit_samus_icon.png",
