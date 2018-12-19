@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 
 
-// DATASETS
+// 1808 IMPORTS
 const { phishShows, setLists } = require('./datasets/phishShowData.js');
 const { adoptableDogs, rescues } = require('./datasets/adopt-a-dog.js');
 const { tvShow, spinOff, episodes } = require('./datasets/Buffy.js');
@@ -15,7 +15,33 @@ const { countries, continents } = require('./datasets/countries.js');
 const { coloradoBeer, coloradoBreweries } = require('./datasets/coloradoBeer.js');
 const { nationalParks, trails } = require('./datasets/nationalParks-data.js');
 
+
+// 1810 IMPORTS
+const { beachCounties, beaches } = require('./datasets/beaches.js');
+const { games, genres } = require('./datasets/board-games.js');
+const { parlors, flavors } = require('./datasets/icecream.js');
+const { cards, decks } = require('./datasets/magic-gathering.js');
+const { nationalParks1810, states1810 } = require('./datasets/nationalparks-1810.js');
+const { nflTeams, cities } = require('./datasets/nfl.js');
+const { tea, moods } = require('./datasets/tea.js');
+
+
 const datasets = [ 
+  { name: 'beachCounties', data: beachCounties },
+  { name: 'beaches', data: beaches },
+  { name: 'games', data: games },
+  { name: 'genres', data: genres },
+  { name: 'parlors', data: parlors },
+  { name: 'flavors', data: flavors },
+  { name: 'cards', data: cards },
+  { name: 'decks', data: decks },
+  { name: 'nationalParks1810', data: nationalParks1810 },
+  { name: 'states1810', data: states1810 },
+  { name: 'nflTeams', data: nflTeams },
+  { name: 'cities', data: cities },
+  { name: 'tea', data: tea },
+  { name: 'moods', data: moods },
+
   { name: 'phishShows', data: phishShows },
   { name: 'setLists', data: setLists },
   { name: 'adoptableDogs', data: adoptableDogs },
@@ -32,6 +58,9 @@ const datasets = [
   { name: 'nationalParks', data: nationalParks },
   { name: 'trails', data: trails }
 ];
+
+
+
 
 // EXPRESS CONFIGURATION
 app.use(cors());
