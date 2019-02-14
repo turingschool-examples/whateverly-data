@@ -26,6 +26,16 @@ const { nflTeams, cities } = require('./datasets/nfl.js');
 const { tea, moods } = require('./datasets/tea.js');
 
 
+// 1811 IMPORTS
+const { gems, metals } = require('./datasets/gems-and-metals.js');
+const { games, genres } = require('./datasets/game-cave.js');
+const { parades, restaurants } = require('./datasets/paradeRestaurantData.js');
+const { distributor, menu } = require('./datasets/barstock-data.js');
+const { coloradoClimbingAreas, distanceFromDenverGroupings } = require('./datasets/climbing-data.js');
+const { psychMusic, bands } = require('./datasets/psych-dataset.js');
+const { smoothies, ingredients } = require('./datasets/smoothies.js');
+
+
 const datasets = [ 
   { name: 'beachCounties', data: beachCounties },
   { name: 'beaches', data: beaches },
@@ -56,7 +66,22 @@ const datasets = [
   { name: 'coloradoBeer', data: coloradoBeer },
   { name: 'coloradoBreweries', data: coloradoBreweries },
   { name: 'nationalParks', data: nationalParks },
-  { name: 'trails', data: trails }
+  { name: 'trails', data: trails },
+
+  {name: 'gems', data: gems },
+  {name: 'metals', data: metals },
+  {name: 'games', data: games },
+  {name: 'genres', data: genres },
+  {name: 'parades', data: parades },
+  {name: 'restaurants', data: restaurants },
+  {name: 'distributor', data: distributor},
+  {name: 'menu', data: menu },
+  {name: 'coloradoClimbingAreas', data: coloradoClimbingAreas },
+  {name: 'distanceFromDenverGroupings', data: distanceFromDenverGroupings },
+  {name: 'psychMusic', data: psychMusic },
+  {name: 'bands', data: bands },
+  {name: 'smoothies', data: smoothies },
+  {name: 'ingredients' , data: ingredients }
 ];
 
 
