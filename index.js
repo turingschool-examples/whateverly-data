@@ -28,7 +28,7 @@ const { tea, moods } = require('./datasets/tea.js');
 
 // 1811 IMPORTS
 const { gems, metals } = require('./datasets/gems-and-metals.js');
-const { games, genres } = require('./datasets/game-cave.js');
+const { games1811, genres1811 } = require('./datasets/game-cave.js');
 const { parades, restaurants } = require('./datasets/paradeRestaurantData.js');
 const { distributor, menu } = require('./datasets/barstock-data.js');
 const { coloradoClimbingAreas, distanceFromDenverGroupings } = require('./datasets/climbing-data.js');
@@ -70,8 +70,8 @@ const datasets = [
 
   {name: 'gems', data: gems },
   {name: 'metals', data: metals },
-  {name: 'games', data: games },
-  {name: 'genres', data: genres },
+  {name: 'games1811', data: games1811 },
+  {name: 'genres1811', data: genres1811 },
   {name: 'parades', data: parades },
   {name: 'restaurants', data: restaurants },
   {name: 'distributor', data: distributor},
