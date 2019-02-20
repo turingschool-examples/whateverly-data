@@ -1,4 +1,4 @@
-const games1811 =
+const games =
   [
     {
       "title": "The Last of Us",
@@ -46,7 +46,7 @@ const games1811 =
       "genres": ["Action", "Adventure", "RPG", "Fantasy"],
       "multiplayer": true,
       "metaScore": 92,
-      "img": "https://media.playstation.com/is/image/SCEA/bloodborne-two-column-02-PS4-us-04jun14?$MediaCarousel_Original$"
+      "img": "https://media.playstation.com/is/image/SCEA/bloodborne-two-column-02-ps4-us-04jun14?$MediaCarousel_Original$"
     },
     {
       "title": "Darkest Dungeon",
@@ -238,7 +238,7 @@ const games1811 =
       "genres": ["Horror", "Demo", "Survival"],
       "multiplayer": true,
       "metaScore": 86,
-      "img": "https://media.playstation.com/is/image/SCEA/pt-screenshot-01-PS4-us-12aug14?$TwoColumn_Image$"
+      "img": "https://www.scaredtoplay.com/uploads/games/original/games_1437577235.jpg"
     },
     {
       "title": "League of Legends",
@@ -435,7 +435,7 @@ const games1811 =
     {
       "title": "Sunset Overdrive",
       "platforms": ["Xbox One", "PC"],
-      "genres": ["Action", "Adventure", "Hack-n-slash"],
+      "genres": ["Action", "Adventure", "Hack-n-Slash"],
       "multiplayer": true,
       "metaScore": 81,
       "img": "https://upload.wikimedia.org/wikipedia/en/4/46/Sunset_Overdrive_cover.jpg"
@@ -494,7 +494,7 @@ const games1811 =
       "genres": ["Action", "Platformer", "Adventure"],
       "multiplayer": false,
       "metaScore": 82,
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MM11JPNPS4.jpg/220px-MM11JPNPlaystation 4.jpg"
+      "img": "https://www.instant-gaming.com/images/products/3198/271x377/3198.jpg"
     },
     {
       "title": "Bioshock",
@@ -547,7 +547,7 @@ const games1811 =
     {
       "title": "Overcooked",
       "platforms": ["PC", "Playstation 4", "Xbox One", "Switch"],
-      "genres": ["Simulation", "Couch-Co-Op"],
+      "genres": ["Couch-Co-Op", "Action"],
       "multiplayer": true,
       "metaScore": 81,
       "img": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcgv2gDxi5nDXX85qYw8UHbm7hxZKo8iYvh_XUJVB3LCPDWrPv4J.OlpDU9U9J7fH1S7.WkUCxBLiub1eU2wEoVqM2PF1uZUjQxBzg0.zT3VtpAT8LNMIzp.NxR.8ijFoDSD_miaoxzwb.EtHXERMs1itsQJaFrfy0cYv_eN1pu6U-&w=200&h=300&format=jpg"
@@ -667,7 +667,7 @@ const games1811 =
   ]
 
 
-const genres1811 = [
+const genres = [
   {
     "genre": "Action",
     "description": "The action game is a video game genre that emphasizes physical challenges, including hand–eye coordination and reaction-time."
@@ -758,7 +758,7 @@ const genres1811 = [
   },
   {
     "genre": "Sports",
-    "decription": "Simulates the practice of sports.Some satirize the sport for comic effect."
+    "description": "Simulates the practice of sports.Some satirize the sport for comic effect."
   },
   {
     "genre": "Couch-Co-Op",
@@ -779,6 +779,6 @@ const genres1811 = [
 ]
 
 module.exports = {
-  games1811,
-  genres1811
+  games,
+  genres
 }
