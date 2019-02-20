@@ -2,7 +2,7 @@ const coloradoClimbingAreas  = {
     "Alpine Rock": {
         "milesFromDenver": 97.2,
         "id": 1,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "ice", "alpine", "aid"],
+        "typesOfClimbing": ["trad", "alpine", "aid"],
         "classicRoutes": [
             {
                 "name": "Undertow",
@@ -79,7 +79,7 @@ const coloradoClimbingAreas  = {
     "Boulder Canyon": {
         "milesFromDenver": 31.5,
         "id": 12,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "aid"],
+        "typesOfClimbing": ["trad"],
         "classicRoutes": [
             {
                 "name": "North Face Center",
@@ -156,7 +156,7 @@ const coloradoClimbingAreas  = {
     "Buena Vista": {
         "milesFromDenver": 134.09,
         "id": 23,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "aid", "alpine"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "Depends",
@@ -205,7 +205,7 @@ const coloradoClimbingAreas  = {
                 "id": 30,
                 "grade": "5.11+",
                 "type": ["trad"],
-                "link": ""
+                "link": "https://www.mountainproject.com/route/111168293/ivory-coast"
             },
             {
                 "name": "Carter Classic",
@@ -233,7 +233,7 @@ const coloradoClimbingAreas  = {
     "Canon City": {
         "milesFromDenver": 119,
         "id": 34,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder"],
+        "typesOfClimbing": ["sport", "toprope"],
         "classicRoutes": [
             {
                 "name": "Enterprise",
@@ -310,7 +310,7 @@ const coloradoClimbingAreas  = {
     "Carbondale": {
         "milesFromDenver": 170,
         "id": 45,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "aid"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "Jenga Buttress Crack aka 10a Crack",
@@ -387,7 +387,7 @@ const coloradoClimbingAreas  = {
     "Clear Creek Canyon": {
         "milesFromDenver": 21.07,
         "id": 56,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "alpine"],
+        "typesOfClimbing": ["sport", "toprope"],
         "classicRoutes": [
             {
                 "name": "Persistent Vegetative State",
@@ -541,7 +541,7 @@ const coloradoClimbingAreas  = {
     "Durango": {
         "milesFromDenver": 337,
         "id": 78,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "aid", "alpine"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "The Black Arete",
@@ -618,7 +618,7 @@ const coloradoClimbingAreas  = {
     "Estes Park Valley": {
         "milesFromDenver": 65.08,
         "id": 89,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "aid"],
+        "typesOfClimbing": ["trad", "sport", "toprope"],
         "classicRoutes":
         [
             {
@@ -696,7 +696,7 @@ const coloradoClimbingAreas  = {
     "Fort Collins": {
         "milesFromDenver": 65.6,
         "id": 100,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder"],
+        "typesOfClimbing": ["trad", "toprope", "boulder"],
         "classicRoutes": [
             {
                 "name": "Roof Route",
@@ -773,7 +773,7 @@ const coloradoClimbingAreas  = {
     "Glenwood Springs": {
         "milesFromDenver": 157, 
         "id": 111,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "aid"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "Jungle Book",
@@ -850,7 +850,7 @@ const coloradoClimbingAreas  = {
     "Grand Junction": {
         "milesFromDenver": 243,
         "id": 122,
-        "typesOfClimbing":["trad", "sport", "toprope", "boulder", "aid", "alpine"],
+        "typesOfClimbing":["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "True Grit",
@@ -927,7 +927,7 @@ const coloradoClimbingAreas  = {
     "Gunnison": {
         "milesFromDenver": 201,
         "id": 133,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "ice", "aid", "mixed", "alpine"],
+        "typesOfClimbing": ["trad", "sport", "toprope"],
         "classicRoutes": [
             {
                 "name": "Buddhas Belly",
@@ -1004,7 +1004,7 @@ const coloradoClimbingAreas  = {
     "Independence Pass": {
         "milesFromDenver": 198,
         "id": 144,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "alpine"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "The Nose",
@@ -1081,7 +1081,7 @@ const coloradoClimbingAreas  = {
     "Irish Canyon": {
         "milesFromDenver": 274,
         "id": 155,
-        "typesOfClimbing": ["trad", "sport", "toprope"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "Irish Sausage",
@@ -1130,7 +1130,7 @@ const coloradoClimbingAreas  = {
     "Leadville": {
         "milesFromDenver": 101,
         "id": 162,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "alpine"],
+        "typesOfClimbing": ["trad", "sport", "toprope", "alpine"],
         "classicRoutes": [
             {
                 "name": "Straight Through The Gates of Hell",
@@ -1207,7 +1207,7 @@ const coloradoClimbingAreas  = {
     "Lyons": {
         "milesFromDenver": 45.2,
         "id": 173,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "aid"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "Sunshine Dihedral",
@@ -1284,7 +1284,7 @@ const coloradoClimbingAreas  = {
     "Montezuma": {
         "milesFromDenver": 74.6,
         "id": 184,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder"],
+        "typesOfClimbing": ["sport", "toprope"],
         "classicRoutes": [
             {
                 "name": "Feet Do Not Fail Me Now",
@@ -1361,7 +1361,7 @@ const coloradoClimbingAreas  = {
     "Montrose": {
         "milesFromDenver": 297,
         "id": 195,
-        "typesOfClimbing": ["trad", "sport", "toprope", "aid"],
+        "typesOfClimbing": ["trad", "sport", "toprope"],
         "classicRoutes": [
             {
                 "name": "Lay it Back",
@@ -1473,7 +1473,7 @@ const coloradoClimbingAreas  = {
     "Naturita And Paradox Valley": {
         "milesFromDenver": 340,
         "id": 211,
-        "typesOfClimbing": ["trad", "sport", "boulder"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "Barney Rubble",
@@ -1515,7 +1515,7 @@ const coloradoClimbingAreas  = {
                 "id": 217,
                 "grade": "5.10",
                 "type": ["sport"],
-                "link": ""
+                "link": "https://www.mountainproject.com/route/111313031/sizzlin-summer-solstice-spectacular"
             },
             {
                 "name": "Darkness Till Dawn",
@@ -1550,7 +1550,7 @@ const coloradoClimbingAreas  = {
     "Pagosa Springs": {
         "milesFromDenver": 277,
         "id": 222,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "aid", "alpine"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "Dilly Dilly",
@@ -1627,7 +1627,7 @@ const coloradoClimbingAreas  = {
     "Rifle": {
         "milesFromDenver": 184,
         "id": 233,
-        "typesOfClimbing": ["trad", "sport", "toprope"],
+        "typesOfClimbing": ["sport"],
         "classicRoutes": [
             {
                 "name": "Lovin' You is a Dirty Job",
@@ -1704,7 +1704,7 @@ const coloradoClimbingAreas  = {
     "San Luis Valley": {
         "milesFromDenver": 201,
         "id": 243,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "Yah-Ta-Hei",
@@ -1781,7 +1781,7 @@ const coloradoClimbingAreas  = {
     "Silverton": {
         "milesFromDenver": 356,
         "id": 254,
-        "typesOfClimbing": ["trad", "sport", "alpine"],
+        "typesOfClimbing": ["sport", "alpine"],
         "classicRoutes": [
             {
                 "name": "The Stripe",
@@ -1858,7 +1858,7 @@ const coloradoClimbingAreas  = {
     "South Platte": {
         "milesFromDenver": 45.6,
         "id": 264,
-        "typesOfClimbing": ["trad", "sport", "toprope", "alpine", "boulder", "aid"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "Chickenhead",
@@ -1935,7 +1935,7 @@ const coloradoClimbingAreas  = {
     "Spanish Peaks": {
         "milesFromDenver": 204, 
         "id": 275,
-        "typesOfClimbing": ["trad", "sport", "toprope"],
+        "typesOfClimbing": ["trad", "toprope"],
         "classicRoutes": [
             {
                 "name": "Ronins Revenge",
@@ -1949,7 +1949,7 @@ const coloradoClimbingAreas  = {
     "Steamboat Springs": {
         "milesFromDenver": 156,
         "id": 277,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "aid", "alpine"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "Steel Nuts",
@@ -2026,7 +2026,7 @@ const coloradoClimbingAreas  = {
     "Telluride": {
         "milesFromDenver": 362,
         "id": 288,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder", "alpine"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "Hot Wee Wee",
@@ -2103,7 +2103,7 @@ const coloradoClimbingAreas  = {
     "Ten Mile Canyon": {
         "milesFromDenver": 96.1, 
         "id": 299,
-        "typesOfClimbing": ["trad", "sport", "toprope", "boulder"],
+        "typesOfClimbing": ["trad", "sport"],
         "classicRoutes": [
             {
                 "name": "Royal Flush",
