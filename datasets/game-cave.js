@@ -1,4 +1,4 @@
-const games =
+const games1811 =
   [
     {
       "title": "The Last of Us",
@@ -667,7 +667,7 @@ const games =
   ]
 
 
-const genres = [
+const genres1811 = [
   {
     "genre": "Action",
     "description": "The action game is a video game genre that emphasizes physical challenges, including hand–eye coordination and reaction-time."
@@ -779,6 +779,6 @@ const genres = [
 ]
 
 module.exports = {
-  games,
-  genres
+  games1811,
+  genres1811
 }
