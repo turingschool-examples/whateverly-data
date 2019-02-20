@@ -758,7 +758,7 @@ const genres = [
   },
   {
     "genre": "Sports",
-    "decription": "Simulates the practice of sports.Some satirize the sport for comic effect."
+    "description": "Simulates the practice of sports.Some satirize the sport for comic effect."
   },
   {
     "genre": "Couch-Co-Op",
